@@ -101,6 +101,13 @@
         {{ end }}
         {{ end }}
 
+        {{ with .coauthors }}
+        <p style="margin:5px 0px 5px 0px;"> coauthors:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
+        {{ end }}
+        {{ end }}
+            
+            
        {{ with .other }}
         <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
         {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }} </a> 
