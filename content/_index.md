@@ -2,11 +2,10 @@
 title = "Homepage"
 +++
 
-## Hello!
+## About me
 
 Welcome to my webpage! 
 
-I am an Econ PH.D. Candidate at School of Finance, Renmin University of China.
+I am an PH.D. Candidate in Econ at School of Finance, Renmin University of China.
 
 My research agenda focuses on understanding imperfect factor market competition, productivity growth, and technological change. 
-
