@@ -78,8 +78,12 @@
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
-        
-
+ 
+        {{ with .presscoverage }}
+        <p style="margin:5px 0px 5px 0px;"> Coauthors:
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+        {{ end }}
+        {{ end }}
 
         {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
 
@@ -94,13 +98,6 @@
         <p style="margin:5px 0px 5px 0px;"><a href="{{ .url }}" target="blank">• {{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
         {{ end }}
         {{ end }}
-
-        {{ with .presscoverage }}
-        <p style="margin:5px 0px 5px 0px;"> Coauthors:
-        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
-        {{ end }}
-        {{ end }}
-
                       
        {{ with .other }}
         <p style="margin:5px 0px 5px 0px;"> {{ $other_text }}:
