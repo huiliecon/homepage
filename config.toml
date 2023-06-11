@@ -8,14 +8,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [author]
 name = "Hui Li"
+homepage = "https://huili.netlify.app/"
 
-[markup] # needed to add html in .md
+[params]
+institution = "School of Finance, Renmin University of China"
+shortbio = "Ph.D. candidate in Economics"
+Email = "lihuieco@ruc.edu.cn"
+
+[markup]
+  [markup.highlight]
+    style = "solarized-light"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[params]
-title = ""
-institution = "School of Finance, Renmin University of China"
-Twitter = ""
-Email = "lihuieco@ruc.edu.cn"
