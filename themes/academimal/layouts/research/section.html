@@ -31,7 +31,11 @@
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
    
-        {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
+        {{ with .presscoverage }}
+        <p style="margin:5px 0px 5px 0px;"> with
+        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
+        {{ end }}
+        {{ end }}
 
         {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
 
@@ -73,14 +77,13 @@
     {{$index:= $.Scratch.Get "count" }}
     {{ $other_text := .other_text }}
 
-
     {{ if ne .year ($.Scratch.Get "curyear") }}<br><h3>{{ .year }}</h3>{{ $.Scratch.Set "curyear" .year}}{{ end }}
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
  
         {{ with .presscoverage }}
-        <p style="margin:5px 0px 5px 0px;"> Coauthors:
+        <p style="margin:5px 0px 5px 0px;"> with
         {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
         {{ end }}
         {{ end }}
