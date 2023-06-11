@@ -37,11 +37,11 @@
           {{ range $index, $coauthor := $coauthors }}
             {{ $trimmed := trim $coauthor " " }}
             {{ if eq $index 0 }}
-              <a href="/authors/{{ $trimmed }}" target="_blank">{{ $trimmed }}</a>
+              <a href=".url }}" target="_blank">{{ $trimmed }}</a>
             {{ else if eq $index $len }}
-              , <a href="/authors/{{ $trimmed }}" target="_blank">{{ $trimmed }}</a>
+              , <a href=".url }}" target="_blank">{{ $trimmed }}</a>
             {{ else }}
-              , <a href="/authors/{{ $trimmed }}" target="_blank">{{ $trimmed }}</a>
+              , <a href=".url" target="_blank">{{ $trimmed }}</a>
             {{ end }}
           {{ end }}
         {{ end }}
