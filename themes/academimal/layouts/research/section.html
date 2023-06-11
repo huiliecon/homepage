@@ -94,11 +94,7 @@
         <p style="margin:5px 0px 5px 0px;"><a href="{{ .url }}" target="blank">• {{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
         {{ end }}
         {{ end }}
-        {{ with .coauthors }}
-        <p style="margin:5px 0px 5px 0px;"> :
-        {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
-        {{ end }}
-        {{ end }}
+
         {{ with .presscoverage }}
         <p style="margin:5px 0px 5px 0px;"> Press coverage:
         {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
