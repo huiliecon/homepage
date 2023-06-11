@@ -13,6 +13,7 @@ homepage = "https://huili.netlify.app/"
 [params]
 institution = "School of Finance, Renmin University of China"
 shortbio = "Ph.D. candidate in Economics"
+logo = "Stefanie_Stantcheva_headshot_signed_fil-3.jpg"
 Email = "lihuieco@ruc.edu.cn"
 
 [markup]
