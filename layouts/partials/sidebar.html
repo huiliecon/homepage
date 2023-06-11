@@ -7,9 +7,8 @@
 
 {{ range .Site.Menus.main }}
 
-<p class="sidebar" style="font-size:18px"><a class="sidebar" href="{{ .URL | relURL }}">Home</a></p>
+<p class="sidebar" style="font-size:18px"><a class="sidebar" href="{{"" | relURL }}">Home</a></p>
 <p class="sidebar" style="font-size:18px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
-
 
 	{{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working Papers</a></p>
