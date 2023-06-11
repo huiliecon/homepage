@@ -4,7 +4,7 @@ title = "Homepage"
 
 ## About me
 
-Welcome
+Welcome to
 
 I am an PH.D. Candidate in Econ at School of Finance, Renmin University of China.
 
