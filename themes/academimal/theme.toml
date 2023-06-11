@@ -12,7 +12,7 @@ min_version = "0.41"
 
 [author]
   name = "Lei Yang"
-  homepage = "http://leiy.me"
+  homepage = "https://huili.netlify.app/"
 
 # If porting an existing theme
 [original]
