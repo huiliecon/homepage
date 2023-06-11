@@ -14,8 +14,9 @@ workingpapers:
 publications:
 
 - title: "中国制造业技术进步方向的识别与估计"
-  pdflink: "warehouse/2023,中国制造业技术进步方向的识别与估计.pdf"
+  pdflink: "/warehouse/2023,中国制造业技术进步方向的识别与估计.pdf"
   book: "《经济研究》"
+  coauthors: "尹恒，张道远"
   year: "2023"
   links:
     - url: "https://kns.cnki.net/kcms2/article/abstract?v=TkGDOGz83pu0Zv0i-pvgs2t9d6r9DVWf9lSnEAiTbO6BF2LZBULrIOAnG7sS4xVR0rOaRUx-DyQtMxTtY-Qqv9InGzJQWQtW8zEi5RVbteoQhyEI39F7SQ==&uniplatform=NZKPT&language=gb"
