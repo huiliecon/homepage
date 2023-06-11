@@ -1,9 +1,9 @@
 courses:
-- title: -助教
-  id: "财政学"
-  institute: "Peking University"
-  term: "Spring '18"
-  instructor: Prof. Yun Liang
+- title: teaching assistant
+  id: "《财政学》"
+  institute: "Department of Finance, Renmin University of China"
+  term: "Fall '2021"
+  instructor: Prof. 尹恒
 
 - title: Computer Networks (Honor Track)
   id: "04832250"
