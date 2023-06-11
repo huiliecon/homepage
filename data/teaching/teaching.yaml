@@ -1,9 +1,9 @@
 courses:
-- title: Compiler Technology
+- title: 财政学
   id: "04830150"
-  institute: "Peking University"
-  term: "Spring '18"
-  instructor: Prof. Yun Liang
+  institute: "中国人民大学财政金融学院"
+  term: "Spring '21"
+  instructor: Prof. 尹恒
 
 - title: Computer Networks (Honor Track)
   id: "04832250"
