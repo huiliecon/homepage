@@ -1,12 +1,12 @@
 <h1 class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-<h1 style="font-size:26px; font-style:italic;">{{ .Site.Params.title }} <br/>
+<h1 style="font-size:20px; font-style:italic;">{{ .Site.Params.title }} <br/>
 {{ .Site.Params.institution }}</h1>
 <hr/>
 
 {{ $.Scratch.Set "currentPageTitle" .Title }}
 
 {{ range .Site.Menus.main }}
-<p class="sidebar"><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
+<p class="sidebar" style="font-size:20px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
 
 	{{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working Papers</a></p>
