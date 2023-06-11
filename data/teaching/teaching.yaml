@@ -1,12 +1,12 @@
 courses:
 - title: 财政学
-  id: "04830150"
-  institute: "中国人民大学财政金融学院"
-  term: "Spring '21"
+  id: ""
+  institute: "Department of Finance, Renmin University of China"
+  term: "Autumn '2021"
   instructor: Prof. 尹恒
 
-- title: Computer Networks (Honor Track)
-  id: "04832250"
-  institute: Peking University
-  term: "Fall '17"
-  instructor: Prof. Chenren Xu
+- title: 财政学
+  id: ""
+  institute:"Department of Finance, Renmin University of China"
+  term: "Autumn '2022"
+  instructor: Prof. 谢晓晨
