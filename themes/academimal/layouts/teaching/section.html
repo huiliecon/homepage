@@ -1,17 +1,9 @@
 {{ define "main" -}}
 {{ .Content }}
-    {{ range .Site.Data.teaching }}
-    {{ with .courses }}
-    {{ range . }}
-    <p>
-        <strong>{{ .id }}: {{ .title }}</strong><br>
-        {{ .term }}, {{ .institute }}<br>
-        Instructor: <a href="{{ .RelPermalink }}">{{ .instructor }}</a>
-        {{ with .role }}
-        <br>Role: {{ . }}
-        {{ end }}
-    </p>
+<ul>
+    {{ range .Pages }}
+    <li><a href="{{ .URL | relURL }}">{{ .Title }}</a>
+    </li>
     {{ end }}
-    {{ end }}
-    {{ end }}
+</ul>
 {{- end }}
