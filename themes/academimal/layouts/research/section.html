@@ -78,7 +78,7 @@
         <p style="margin:5px 0px 5px 0px;"> with
         {{ range $i, $e := . }}{{ if $i }},  {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text }}</a>
         {{ end }}
-        {{ end }}
+        {{ end }}</p>
 
         {{ with .book_edited }}<span style="margin:5px 0px 5px 0px;">in <em>{{ . }}</em></span>{{ end }}<em>{{ .book }}, {{ .year }} </em>
 
