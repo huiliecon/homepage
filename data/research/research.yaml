@@ -1,16 +1,3 @@
-publications:
-   
-  #2022
-- title: "How to Run Surveys: A guide to creating your identifying variation and revealing the invisible"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/How_to_run_surveys_Stantcheva.pdf"
-  book: "A much shortened version focusing on some parts only is forthcoming in the Annual Review of Economics"
-  year: "2022"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/how_to_run_survey_slides.pdf"
-      text: "Slides"
-  abstract: >
-    Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning. These factors are critical determinants of social, economic, and political outcomes. Surveys are not merely a research tool. They are also not only a way of collecting data. Instead, they involve creating the process that will generate the data. This allows the researcher to create their own identifying and controlled variation. Thanks to the rise of mobile technologies and platforms, surveys offer valuable opportunities to study either broadly representative samples or focus on specific groups. This paper offers guidance on the complete survey process, from the design of the questions and experiments to the recruitment of respondents and the collection of data to the analysis of survey responses. It covers issues related to the sampling process, selection and attrition, attention and carelessness, survey question design and measurement, response biases, and survey experiments.
-
 workingpapers:
 
 - title: "Tax Design, Information, and Elasticities: Evidence from the French Wealth Tax [UPDATED! April 2023]" 
@@ -23,4 +10,17 @@ workingpapers:
       text: "Slides"
   abstract: >
       We study a French wealth tax system reform that starkly reduced the information taxpayers with certain wealth levels had to report to the tax authority. We develop a new dynamic bunching approach that permits estimating the average response to the reform, the share of compliers, and the LATE and leverage exhaustive administrative wealth and income tax data. We find large responses of the wealth tax base to the switch to a lower-information regime, equal to a 0.5 percentage points reduction in the annual wealth growth rate of treated taxpayers each year after the reform (equivalent to 20% of the control group’s wealth growth rate). We show that reduced wealth growth rates are likely due to increased misreporting and evasion facilitated by the lower reporting requirements, as suggested by the sharp responses in self-reported wealth but the lack of response in third-party-reported labor and capital incomes. The wealth tax base becomes more elastic in the low-information regime, illustrating the role of policy choices related to reporting and information for tax base elasticities.
+
+publications:
+   
+  #2022
+- title: "How to Run Surveys: A guide to creating your identifying variation and revealing the invisible"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/How_to_run_surveys_Stantcheva.pdf"
+  book: "A much shortened version focusing on some parts only is forthcoming in the Annual Review of Economics"
+  year: "2022"
+  links:
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/how_to_run_survey_slides.pdf"
+      text: "Slides"
+  abstract: >
+    Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning. These factors are critical determinants of social, economic, and political outcomes. Surveys are not merely a research tool. They are also not only a way of collecting data. Instead, they involve creating the process that will generate the data. This allows the researcher to create their own identifying and controlled variation. Thanks to the rise of mobile technologies and platforms, surveys offer valuable opportunities to study either broadly representative samples or focus on specific groups. This paper offers guidance on the complete survey process, from the design of the questions and experiments to the recruitment of respondents and the collection of data to the analysis of survey responses. It covers issues related to the sampling process, selection and attrition, attention and carelessness, survey question design and measurement, response biases, and survey experiments.
 
