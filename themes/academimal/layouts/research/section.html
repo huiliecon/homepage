@@ -29,9 +29,9 @@
     {{ $other_text := .other_text }} 
 
     <p>
-        <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ .url }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
+        <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
         
-        {{ with .coauthors }}<a href="{{ . }}" target="blank"><p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
+        {{ with .coauthors }}<a href="{{ .url }}" target="blank"><p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
         {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
 
