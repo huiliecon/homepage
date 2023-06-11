@@ -5,16 +5,3 @@ weight = 1
 
 ## Teaching
 
-courses:
-- title: teaching assistant
-  id: "《财政学》"
-  institute: "Department of Finance, Renmin University of China"
-  term: "Fall '2021"
-  instructor: Prof. 尹恒(https://xylin.net)
-  
-- title: teaching assistant
-  id: "《财政学》"
-  institute: "Department of Finance, Renmin University of China"
-  term: "Fall '2022"
-  instructor: Prof. 谢晓晨(http://sf.ruc.edu.cn/info/1433/9689.html)
-
