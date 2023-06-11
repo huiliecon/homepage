@@ -6,8 +6,7 @@
     <p>
         <strong>{{ .id }}: {{ .title }}</strong><br>
         {{ .term }}, {{ .institute }}<br>
-        <li>Instructor: <a href="{{ .RelPermalink }}">{{ .Instructor }}</a>
-        </li>
+        Instructor: <a href="{{ .RelPermalink }}">{{ .instructor }}</a>
         {{ with .role }}
         <br>Role: {{ . }}
         {{ end }}
