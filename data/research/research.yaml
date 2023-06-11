@@ -12,8 +12,21 @@ workingpapers:
       We study a French wealth tax system reform that starkly reduced the information taxpayers with certain wealth levels had to report to the tax authority. We develop a new dynamic bunching approach that permits estimating the average response to the reform, the share of compliers, and the LATE and leverage exhaustive administrative wealth and income tax data. We find large responses of the wealth tax base to the switch to a lower-information regime, equal to a 0.5 percentage points reduction in the annual wealth growth rate of treated taxpayers each year after the reform (equivalent to 20% of the control group’s wealth growth rate). We show that reduced wealth growth rates are likely due to increased misreporting and evasion facilitated by the lower reporting requirements, as suggested by the sharp responses in self-reported wealth but the lack of response in third-party-reported labor and capital incomes. The wealth tax base becomes more elastic in the low-information regime, illustrating the role of policy choices related to reporting and information for tax base elasticities.
 
 publications:
-   
-  #2022
+
+- title: "中国制造业技术进步方向的识别与估计"
+  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/How_to_run_surveys_Stantcheva.pdf"
+  book: "《经济研究》"
+  year: "2023"
+  links:
+    - url: "https://kns.cnki.net/kcms2/article/abstract?v=TkGDOGz83pu0Zv0i-pvgs2t9d6r9DVWf9lSnEAiTbO6BF2LZBULrIOAnG7sS4xVR0rOaRUx-DyQtMxTtY-Qqv9InGzJQWQtW8zEi5RVbteoQhyEI39F7SQ==&uniplatform=NZKPT&language=gb"
+      text: "Published version"
+    - url: "https://scholar.harvard.edu/files/stantcheva/files/optimal_taxation_and_rd_policies_-_replication_packet.zip"
+      text: "Slides"
+  abstract: >
+     技术进步方向是决定经济增长和要素分配的关键因素之一。然而目前学界对于技术进步方向的定量研究仍然十分欠缺。本文尝试在生产函数中同时引入希克斯中性生产率和劳动增强型生产率，直接在微观层面识别和估计技术进步方向。综合使用1999—2016年中国工业企业数据与全国税收调查数据的估计结果显示，样本期内中国制造业技术进步具有明显的偏向性特征: 劳动增强型生产率增速保持稳定，年均增长10% ，带动产出年均增长1.0%;希克斯中性生产率带动产出年均增长2.5%，但金融危机过后尤其是2011年后增速明显放缓。这意味着随着时间演进，有偏技术进步对产出的相对贡献不断提高，并在样本后期成为产出增长的主要源泉。估计结果还显示，制造业效率的提高主要源于企业自身成长，行业内资源配置的贡献有限，配置效率仍然存在较大改善空间。本文刻画了21世纪近20年中国制造业技术变迁的整体图景，可以为新常态下推动技术创新、促进高质量发展的政策选择提供重要的经验支撑。
+
+
+ 
 - title: "How to Run Surveys: A guide to creating your identifying variation and revealing the invisible"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/How_to_run_surveys_Stantcheva.pdf"
   book: "A much shortened version focusing on some parts only is forthcoming in the Annual Review of Economics"
