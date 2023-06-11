@@ -31,8 +31,16 @@
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
         
-     
-{{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ if .link }}<a href="{{ .link }}" target="_blank">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}{{ end }})</p>{{ end }}
+       {{ with .coauthors }}
+<p style="margin:5px 0px 5px 0px;">(with 
+    {{ range $i, $coauthor := . }}
+    {{ with $coauthor.link }}<a href="{{ . }}" target="blank">{{ end }}
+    {{ $coauthor.name }}
+    {{ with $coauthor.link }}</a>{{ end }}
+    {{ if not (eq (len .coauthors) (add $i 1)) }}, {{ end }}
+    {{ end }})
+</p>
+{{ end }}
 
         {{ with .editors }}<p style="margin:5px 0px 5px 0px;">(Eds. {{ . }})</p>{{ end }}
 
