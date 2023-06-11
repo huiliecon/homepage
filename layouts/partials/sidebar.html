@@ -7,7 +7,7 @@
 
 {{ range .Site.Menus.main }}
 
-
+<p class="sidebar" style="font-size:20px"><a class="sidebar" href="{{"" | relURL }}">Home</a></p>
 <p class="sidebar" style="font-size:20px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
 	{{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working Papers</a></p>
@@ -15,7 +15,6 @@
 	{{end}}
 {{ end }}
 
-<p class="sidebar" style="font-size:20px;"><a class="sidebar" href="{{ "teaching" | relURL }}">teaching</a></p>
 
 <p class="sidebar" style="font-size:20px"><a class="sidebar" href="https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_jan2023.pdf">Bio and CV</a></p>
 
