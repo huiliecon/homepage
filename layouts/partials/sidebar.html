@@ -9,15 +9,19 @@
 
 <p class="sidebar" style="font-size:18px"><a class="sidebar" href="{{"" | relURL }}">Home</a></p>
 <p class="sidebar" style="font-size:18px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
-
 	{{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working Papers</a></p>
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#Publications" | relURL }}">Publications</a></p>
 <!--	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorksInProgress" | relURL }}">Works in Progress</a></p> -->
 	{{end}}
-
 {{ end }}
-<p class="sidebar" style="font-size:18px"><a class="sidebar" href="{{"teaching/" | relURL }}">Teaching</a></p>
+
+<p class="sidebar" style="font-size:18px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
+	{{ if and (eq "Teaching" ($.Scratch.Get "currentPageTitle")) (eq "Teaching" .Title) }}
+	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research" | relURL }}">Working Papers</a></p>
+	{{end}}
+{{ end }}
+
 <p class="sidebar" style="font-size:18px"><a class="sidebar" href="https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_jan2023.pdf">Bio and CV</a></p>
 
 
