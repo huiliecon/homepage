@@ -1,1 +1,12 @@
+courses:
+- title: -助教
+  id: "财政学"
+  institute: "Peking University"
+  term: "Spring '18"
+  instructor: Prof. Yun Liang
 
+- title: Computer Networks (Honor Track)
+  id: "04832250"
+  institute: Peking University
+  term: "Fall '17"
+  instructor: Prof. Chenren Xu
