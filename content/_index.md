@@ -10,4 +10,8 @@ I am currently PH.D. Candidate in <i>Economics</font></i></font> at <i>[School o
 
 <strong>My research interests: <i>Imperfect labor market competition, Productivity growth,</font></i></font> and <i>Technological change</font></i></strong></font>. 
 
-<strong>E-mail: lihuieco@ruc.edu.cn</font></i></strong></font>.
+<strong>E-mail: lihuieco@ruc.edu.cn</font></i></strong></font>
+
+### Research
+
+
