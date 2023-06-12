@@ -13,7 +13,7 @@ workingpapers:
 publications:
 
 - title: "中国制造业技术进步方向的识别与估计"
-  pdflink: "warehouse/2023,中国制造业技术进步方向的识别与估计.pdf"
+  pdflink: "huiliecon.github.io/Papers/2023,biased technology change.pdf"
   presscoverage:
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "尹恒"
@@ -22,7 +22,7 @@ publications:
   book: "《经济研究》"
   year: "2023年第4期。" 
   links:
-    - url: "huiliecon.github.io/Papers/2023,biased technology change.pdf"
+    - url: "https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL2XJbeQ0ZwQzNAwppAhJp3ewLc2Vkb6DtCitAWmisqgDJTYzOe50X6X4oWHdO_bbwLMRrBrwFSfpa6C40dZNyqGmzs6RW2tfbhnTE7-EuBPEQ==&uniplatform=NZKPT&language=gb"
       text: "Published version"
     - url: "huiliecon.github.io/Papers/2023,slides_biased technology change.pdf"
       text: "Slides"
