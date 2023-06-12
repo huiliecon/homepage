@@ -62,13 +62,12 @@
     <br>
 
     <h2 id="Publications">Publications</h2>
-    <div style="margin-top:-25px;"></div>
-    {{ with .publications }}
+
     {{range . }}
     {{ $.Scratch.Add "count" 1 }} 
     {{$index:= $.Scratch.Get "count" }}
     {{ $other_text := .other_text }}
-    {{ end }}
+   
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
