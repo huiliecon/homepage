@@ -8,7 +8,7 @@ Welcome to my webpage!
 
 I am currently PH.D. Candidate in <i>Economics</font></i></font> at <i>[School of Finance, Renmin University of China](http://sf.ruc.edu.cn/)</font></i></font>.
 
-My research interests: <i>Imperfect labor market competition, Productivity growth,</font></i></font> and <i>Technological change</font></i></font>. 
+My research interests: <i>Labor Market Competition, Productivity Growth,</font></i></font> and <i>Technological Change</font></i></font>. 
 
 E-mail: lihuieco@ruc.edu.cn
 
