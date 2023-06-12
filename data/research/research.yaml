@@ -1,17 +1,15 @@
 workingpapers:
 
-- title: "最低工资与劳动市场垄断" 
+- title: "Minimum wage and Labor market power" 
   pdflink: "" 
   presscoverage:
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
-      text: "尹恒"
+      text: "Heng Yin"
     - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
-      text: "邹先强。"
-  book: ""
-  year: "2023年" 
-  abstract: >
-    破除劳动市场垄断障碍对于推动经济高质量发展，完善收入分配格局具有重要意义。本文基于新近发展的“生产端方法”，利用2007-2016年全国税收调查数据直接在微观层面估计了劳动市场垄断状况的测度指标——劳动折价率，即劳动边际产出和工资之比。结果显示中国劳动市场远非完全竞争，企业在劳动市场具有很强的买方垄断势力。样本期内制造业的平均劳动折价率为1.683，意味着工人只能得到其边际产出的59%。不过随着时间演进，劳动折价率迅速下降，劳动市场垄断状况明显改善。进一步，本文发现最低工资标准提高显著抑制了企业的劳动市场垄断势力，对于一个代表性企业，最低工资标准提高10%，劳动折价率下降0.57%。据此推算，最低工资标准变化大约能够解释2008-2016年间制造业劳动折价率下降的25%。此外，提高最低工资标准还会降低“地区-行业”内劳动折价率的离散度，改善资源配置效率。本文结果揭示了劳动市场垄断是中国企业垄断行为的重要维度，最低工资制度是弱化劳动市场垄断、缓解劳动市场扭曲的有效举措。
-      
+      text: "Xianqiang Zou"
+  book: "Working paper"
+  year: "2023" 
+       
 publications:
 
 - title: "中国制造业技术进步方向的识别与估计"
@@ -21,7 +19,8 @@ publications:
       text: "尹恒"
     - url: ""
       text: "张道远。"
-  book: "《经济研究》，2023年第4期。"
+  book: "《经济研究》"
+  year: "2023年第4期。" 
   links:
     - url: "https://kns.cnki.net/kcms2/article/abstract?v=TkGDOGz83pu0Zv0i-pvgs2t9d6r9DVWf9lSnEAiTbO6BF2LZBULrIOAnG7sS4xVR0rOaRUx-DyQtMxTtY-Qqv9InGzJQWQtW8zEi5RVbteoQhyEI39F7SQ==&uniplatform=NZKPT&language=gb"
       text: "Published version"
@@ -35,6 +34,7 @@ publications:
   presscoverage:
     - url: ""
       text: "Min Dai"
-  book: "Economics Letters, 2023, Accepted"
+  book: "Economics Letters"
+  year: "2023, Accepted"
   abstract: >
      Based on a large sample of waterway traffic citations in China, our analysis reveals that local firms face fines that are 4.3% lower for the same offenses and are more prone to receiving lighter punishments. The leniency in law enforcement is more pronounced in districts with greater social capital and better fiscal conditions. These results indicate that even appointed grassroots officials could engage in hometown favoritism.
