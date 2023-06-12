@@ -21,8 +21,7 @@ publications:
       text: "尹恒"
     - url: ""
       text: "张道远。"
-  book: "《经济研究》"
-  year: "2023年第4期。"
+  book: "《经济研究》，2023年第4期。"
   links:
     - url: "https://kns.cnki.net/kcms2/article/abstract?v=TkGDOGz83pu0Zv0i-pvgs2t9d6r9DVWf9lSnEAiTbO6BF2LZBULrIOAnG7sS4xVR0rOaRUx-DyQtMxTtY-Qqv9InGzJQWQtW8zEi5RVbteoQhyEI39F7SQ==&uniplatform=NZKPT&language=gb"
       text: "Published version"
@@ -36,7 +35,6 @@ publications:
   presscoverage:
     - url: ""
       text: "Min Dai"
-  book: "Economics Letters"
-  year: "2023"
+  book: "Economics Letters, 2023, Accepted"
   abstract: >
      Based on a large sample of waterway traffic citations in China, our analysis reveals that local firms face fines that are 4.3% lower for the same offenses and are more prone to receiving lighter punishments. The leniency in law enforcement is more pronounced in districts with greater social capital and better fiscal conditions. These results indicate that even appointed grassroots officials could engage in hometown favoritism.
