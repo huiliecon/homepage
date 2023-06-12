@@ -1,5 +1,5 @@
 <h1 class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-<h1 style="font-size:20px; font-style:italic;">{{ .Site.Params.title }} <br/>
+<h1 style="font-size:18px; font-style:italic;">{{ .Site.Params.title }} <br/>
 {{ .Site.Params.institution }}</h1>
 <hr/>
 
@@ -14,7 +14,7 @@
 	{{end}}
 {{ end }}
 
-<p class="sidebar" style="font-size:20px"><a class="sidebar" href="https://scholar.harvard.edu/files/stantcheva/files/cv_sstantcheva_jan2023.pdf">Bio and CV</a></p>
+<p class="sidebar" style="font-size:20px"><a class="sidebar" href="">Bio and CV</a></p>
 
 {{ with .Site.Params.logo }}
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
