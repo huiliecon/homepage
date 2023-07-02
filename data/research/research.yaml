@@ -31,7 +31,7 @@ workingpapers:
 publications:
 
 - title: "中国制造业技术进步方向的识别与估计"
-  pdflink: "https://huiliecon.github.io/Papers/2023,biased%20technology%20change.pdf"
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL2XJbeQ0ZwQzNAwppAhJp3ewLc2Vkb6DtCitAWmisqgDJTYzOe50X6X4oWHdO_bbwLMRrBrwFSfpa6C40dZNyqGmzs6RW2tfbhnTE7-EuBPEQ==&uniplatform=NZKPT&language=gb"
   presscoverage:
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "尹恒"
@@ -40,7 +40,7 @@ publications:
   book: "《经济研究》"
   year: "2023年第4期。" 
   links:
-    - url: "https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL2XJbeQ0ZwQzNAwppAhJp3ewLc2Vkb6DtCitAWmisqgDJTYzOe50X6X4oWHdO_bbwLMRrBrwFSfpa6C40dZNyqGmzs6RW2tfbhnTE7-EuBPEQ==&uniplatform=NZKPT&language=gb"
+    - url: "https://huiliecon.github.io/Papers/2023,biased%20technology%20change.pdf"
       text: "Published version"
     - url: "https://github.com/huiliecon/huiliecon.github.io/blob/09db05df0cb38fae1e995c530861cd4e1ec4bac3/Papers/slides_biased_technology_change.pdf"
       text: "Slides"
