@@ -21,3 +21,5 @@ E-mail: lihuieco@ruc.edu.cn
 ### Working Papers
 
 Minimum wage and Labor market power, with [Xianqiang Zou](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm),[Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), May,2023.
+
+Robot adoption and Labor market power：Evidence from China, with [Xianqiang Zou](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm),[Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), May,2023.
