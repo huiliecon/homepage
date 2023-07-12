@@ -16,6 +16,12 @@
 
 <p class="sidebar" style="font-size:20px"><a class="sidebar" href="">Bio and CV</a></p>
 
+<p class="sidebar">
+	<img src="{{ "/icons/twitter-white.png" | relURL }}" class="octicons">
+<a class="sidebar" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
+@{{ .Site.Params.Twitter }}
+</a></p>
+
 {{ with .Site.Params.logo }}
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
 <img src="{{ . | relURL }}" alt="Logo" style="padding-bottom: 3em;"/>
