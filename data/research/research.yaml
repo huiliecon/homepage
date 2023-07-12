@@ -23,10 +23,12 @@ workingpapers:
 - title: "Robot adoption and Labor market monopsony：Evidence from China" 
   pdflink: "" 
   presscoverage:
-    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
-      text: "Heng Yin"
     - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
       text: "Xianqiang Zou"
+    - url: ""
+      text: "Yao Amber Li"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "Heng Yin"
   book: "Working paper"
   year: "2023." 
        
