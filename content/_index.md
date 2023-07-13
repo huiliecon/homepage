@@ -26,3 +26,6 @@ Robot adoption and Labor market power：Evidence from China, with [Xianqiang Zou
 
 Identification of Labor market monopsony with Non-neutral Productivity, with [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), June,2023.
 
+劳动市场垄断和企业间工资不平等，和[王中华](https://zhonghua-wang.netlify.app/)，July，2022。
+
+区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据，和[张子尧](https://csxy.zuel.edu.cn/2022/0826/c7501a304283/page.htm)、[尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)，March，2022。
