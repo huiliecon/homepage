@@ -13,7 +13,7 @@ workingpapers:
   presscoverage:
     - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
       text: "Xianqiang Zou"
-    - url: ""
+    - url: "http://yaoli.people.ust.hk/"
       text: "Yao Amber Li"
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "Heng Yin"
@@ -25,10 +25,28 @@ workingpapers:
   presscoverage:
     - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
       text: "Xianqiang Zou"
-    - url: ""
+    - url: "http://yaoli.people.ust.hk/"
       text: "Yao Amber Li"
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "Heng Yin"
+  book: "Working paper"
+  year: "2023." 
+
+- title: "劳动市场垄断与企业间工资不平等" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://zhonghua-wang.netlify.app/"
+      text: "王中华"
+  book: "Working paper"
+  year: "2023." 
+
+- title: "区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://csxy.zuel.edu.cn/2022/0826/c7501a304283/page.htm"
+      text: "张子尧"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "张子尧"
   book: "Working paper"
   year: "2023." 
        
