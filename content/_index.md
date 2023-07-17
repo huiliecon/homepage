@@ -20,7 +20,7 @@ E-mail: lihuieco@ruc.edu.cn
 
 ### Working Papers
 
-Minimum wage and Labor market power, with [Xianqiang Zou](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm),[Yao Amber Li](http://yaoli.people.ust.hk),[Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), May,2023.
+Minimum Wage and Labor Market Monopsony, with [Xianqiang Zou](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm),[Yao Amber Li](http://yaoli.people.ust.hk),[Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), May,2023.
 
 Relaxing Internal Migration Restrictions and Labor Market Monopsony, with [Xianqiang Zou](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm),[Yao Amber Li](http://yaoli.people.ust.hk),[Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), June,2023.
 
