@@ -24,7 +24,7 @@ Minimum Wage and Labor Market Monopsony, with [Xianqiang Zou](http://slhr.ruc.ed
 
 Relaxing Internal Migration Restrictions and Labor Market Monopsony, with [Xianqiang Zou](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm),[Yao Amber Li](http://yaoli.people.ust.hk),[Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), June,2023.
 
-Identification of Labor market monopsony with Non-neutral Productivity, with [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), June,2023.
+Identification of Labor Market Power with Non-neutral Productivity, with [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), June,2023.
 
 劳动市场垄断和企业间工资不平等，和[王中华](https://zhonghua-wang.netlify.app/)，July，2022。
 
