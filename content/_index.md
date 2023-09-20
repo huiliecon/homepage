@@ -24,7 +24,8 @@ Tax Policy and Labor Market Monopsony，<i><strong> Job market Paper </font></st
 
 中国制造业企业的劳动市场垄断势力：非中性技术进步环境下的识别与估计，和 [尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、张道远。
 
-区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据，和 [张子尧](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、[尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm).
+区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据，和 [张子尧](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、[尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)。
 
+最低工资制度与劳动市场垄断，和[邹先强](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm)、[李瑶](http://yaoli.people.ust.hk/)、[尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)。
 
 
