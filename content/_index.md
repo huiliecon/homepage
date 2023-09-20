@@ -18,4 +18,11 @@ E-mail: lihuieco@ruc.edu.cn
 
 [Hometown Favoritism in Traffic Citations: Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X), with Min Dai, <i><strong>Economics Letters,June,2023</font></strong></i></font>.
 
+### Working Papers
+
+[Tax Policy and Labor Market Monopsony]，和[Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)，<i><strong> Job market Paper </font></strong></i></font>。
+
+
+
+
 
