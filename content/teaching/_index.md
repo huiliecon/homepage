@@ -11,7 +11,7 @@ weight = 1
 - Instructor: Prof. [谢晓晨](http://sf.ruc.edu.cn/info/1433/9689.htm)
 
 ### 2022
-- Course：《财政学》助教
+- Course：《公共经济学》助教
 - Institute: Department of Finance, Renmin University of China.
 - Instructor: Prof. [谢晓晨](http://sf.ruc.edu.cn/info/1433/9689.htm)
 
