@@ -1,5 +1,4 @@
-
-working papers:
+workingpapers:
 
 - title: "Tax Policy and Labor Market Monopsony"
   pdflink: ""
@@ -9,7 +8,18 @@ working papers:
   book: "Job Market Paper."
   year: ""
   abstract: >
-    
+
+- title: "区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://csxy.zuel.edu.cn/2022/0826/c7501a304283/page.htm"
+      text: "张子尧"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+  book: "Working paper"
+  year: "2023." 
+
+
 publications:
 
 - title: "中国制造业技术进步方向的识别与估计"
