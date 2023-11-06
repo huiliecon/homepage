@@ -20,7 +20,7 @@ E-mail: lihuieco@ruc.edu.cn
 
 [Hometown Favoritism in Traffic Citations: Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X), with Min Dai, <i><strong>Economics Letters, June, 2023</font></strong></i></font>.
 
-### Working Papers
+### Selected Working Papers
 
 Tax Policy and Labor Market Monopsony，<i><strong> Job market Paper </font></strong></i></font>，with [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm).
 
@@ -29,6 +29,8 @@ Tax Policy and Labor Market Monopsony，<i><strong> Job market Paper </font></st
 中国制造业企业的劳动市场垄断势力：非中性技术进步环境下的识别与估计，和 [尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、张道远。
 
 中国式现代化的贸易福利，和[谢晓晨](http://sf.ruc.edu.cn/info/1433/9689.htm)、[马光荣](http://sf.ruc.edu.cn/info/1240/8096.htm)。
+
+劳动市场垄断与企业间工资不平等，和[王中华](https://zhonghua-wang.netlify.app/)、[邹先强](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm)。
 
 
 
