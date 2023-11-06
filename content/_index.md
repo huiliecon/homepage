@@ -28,7 +28,7 @@ Tax Policy and Labor Market Monopsony，<i><strong> Job market Paper </font></st
 
 中国制造业企业的劳动市场垄断势力：非中性技术进步环境下的识别与估计，和 [尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、张道远。
 
-中国式现代化的贸易福利，和[谢晓晨](http://sf.ruc.edu.cn/info/1433/9689.htm)、马光荣(http://sf.ruc.edu.cn/info/1240/8096.htm)。
+中国式现代化的贸易福利，和[谢晓晨](http://sf.ruc.edu.cn/info/1433/9689.htm)、[马光荣](http://sf.ruc.edu.cn/info/1240/8096.htm)。
 
 
 
