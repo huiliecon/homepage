@@ -9,15 +9,7 @@ workingpapers:
   year: ""
   abstract: >
 
-- title: "区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据" 
-  pdflink: "" 
-  presscoverage:
-    - url: "https://csxy.zuel.edu.cn/2022/0826/c7501a304283/page.htm"
-      text: "张子尧"
-    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
-      text: "尹恒"
-  book: "Working paper"
-  year: "2023." 
+
 
 
 publications:
@@ -38,6 +30,16 @@ publications:
       text: "Slides"
   abstract: >
      技术进步方向是决定经济增长和要素分配的关键因素之一。然而目前学界对于技术进步方向的定量研究仍然十分欠缺。本文尝试在生产函数中同时引入希克斯中性生产率和劳动增强型生产率，直接在微观层面识别和估计技术进步方向。综合使用1999—2016年中国工业企业数据与全国税收调查数据的估计结果显示，样本期内中国制造业技术进步具有明显的偏向性特征: 劳动增强型生产率增速保持稳定，年均增长10% ，带动产出年均增长1.0%;希克斯中性生产率带动产出年均增长2.5%，但金融危机过后尤其是2011年后增速明显放缓。这意味着随着时间演进，有偏技术进步对产出的相对贡献不断提高，并在样本后期成为产出增长的主要源泉。估计结果还显示，制造业效率的提高主要源于企业自身成长，行业内资源配置的贡献有限，配置效率仍然存在较大改善空间。本文刻画了21世纪近20年中国制造业技术变迁的整体图景，可以为新常态下推动技术创新、促进高质量发展的政策选择提供重要的经验支撑。
+
+- title: "区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://csxy.zuel.edu.cn/2022/0826/c7501a304283/page.htm"
+      text: "张子尧"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+  book: "《世界经济》"
+  year: "接受待刊，2023。" 
 
 - title: "Hometown Favoritism in Traffic Citations: Evidence from China"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
