@@ -3,10 +3,44 @@ workingpapers:
 - title: "Tax Policy and Labor Market Monopsony"
   pdflink: ""
   presscoverage:
-      - url: 
-      text: 
-  book: "Job Market Paper."
+      - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "Heng Yin"
+  book: "Job Market Paper"
   year: "2023"
+
+- title: "最低工资与劳动市场垄断"
+  pdflink: ""
+  presscoverage:
+    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
+      text: "邹先强"
+      - url: "http://yaoli.people.ust.hk/"
+      text: "李瑶"
+      - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+  book: "Working Paper"
+  year: "2023"
+
+
+  - title: "中国式现代化的贸易福利"
+  pdflink: ""
+  presscoverage:
+    - url: "http://sf.ruc.edu.cn/info/1433/9689.htm"
+      text: "谢晓晨"
+      - url: "http://sf.ruc.edu.cn/info/1240/8096.htm"
+      text: "马光荣"
+  book: "Working Paper"
+  year: "2023"
+
+  - title: "劳动力市场扭曲和企业间不平等"
+  pdflink: ""
+  presscoverage:
+    - url: "https://zhonghua-wang.netlify.app/"
+      text: "王中华"
+    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
+      text: "邹先强"
+  book: "Working Paper"
+  year: "2023"
+
 
 publications:
 
