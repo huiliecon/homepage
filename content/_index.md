@@ -23,7 +23,7 @@ E-mail: lihuieco@ruc.edu.cn
 
 ### Working Papers
 
-Tax Policy and Labor Market Monopsony，<i><strong> Job market Paper </font></strong></i></font>，with [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm).
+Tax Policy and Labor Market Monopsony，Job market Paper，with [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm).
 
 最低工资制度与劳动市场垄断，和 [邹先强](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm)、[李瑶](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm)、[尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)。
 
