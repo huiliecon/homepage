@@ -22,6 +22,17 @@ workingpapers:
   year: ""
   abstract: 
 
+  - title: "中国式现代化的贸易福利"
+  pdflink: ""
+  presscoverage:
+    - url: "http://sf.ruc.edu.cn/info/1433/9689.htm"
+      text: "谢晓晨"
+      - url: "http://sf.ruc.edu.cn/info/1240/8096.htm"
+      text: "马光荣"
+  book: "Job Market Paper."
+  year: ""
+  abstract: 
+
 publications:
 
 - title: "中国制造业技术进步方向的识别与估计"
