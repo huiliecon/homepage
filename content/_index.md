@@ -18,6 +18,8 @@ E-mail: lihuieco@ruc.edu.cn
 
 区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据，和 [张子尧](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、[尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)，<i><strong>《世界经济》，接受待刊</font></strong></i></font>。
 
+要素替代弹性、有偏技术进步和劳动收入份额上升：微观视角，和 [尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、张道远，<i><strong>《财贸经济》，2024年第1期</font></strong></i></font>。
+
 [Hometown Favoritism in Traffic Citations: Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X), with Min Dai, <i><strong>Economics Letters, June, 2023</font></strong></i></font>.
 
 
