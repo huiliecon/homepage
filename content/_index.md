@@ -31,10 +31,6 @@ Tax Policy and Labor Market Monopsony，Job market Paper，with [Heng Yin](http:
 
 中国制造业企业的劳动市场垄断势力：非中性技术进步环境下的识别与估计，和 [尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)、张道远。
 
-中国式现代化的贸易福利，和[谢晓晨](http://sf.ruc.edu.cn/info/1433/9689.htm)、[马光荣](http://sf.ruc.edu.cn/info/1240/8096.htm)。
-
-劳动市场垄断与企业间工资不平等，和[王中华](https://zhonghua-wang.netlify.app/)、[邹先强](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm)。
-
 
 
 
