@@ -1,6 +1,30 @@
 
 publications:
 
+- title: "China’s technological rise and its global welfare effects"
+  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S026499932500402X"
+  presscoverage:
+    - url: ""
+      text: "Wenzhuo Lu"
+    - url: ""
+      text: "Aoxin Wang"
+    - url: ""
+      text: "Xiaochen Xie"
+  book: "Economics Modelling"
+  year: "February,2026."
+  abstract: >
+     This paper examines how China’s technological progress has evolved since 1979 and its impact on global welfare. Using a multi-country Ricardian trade model and data from the 50 largest economies, we estimate China’s technological trajectory over time. Although China still trails world leaders such as the United States, it has substantially closed the gap with advanced economies. Counterfactual analysis shows that had China’s technology remained at its WTO accession level, global trade gains would be 3.47% lower. Conversely, a 2.5% reduction in trade costs under the Belt and Road Initiative could raise welfare gains from China’s progress by 2.92%. Projections suggest that continued upgrading, together with China’s economic scale, will further shape global trade outcomes. The results highlight both the opportunities and challenges China’s technological trajectory poses for the world economy.
+
+- title: "Hometown Favoritism in Traffic Citations: Evidence from China"
+  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
+  presscoverage:
+    - url: ""
+      text: "Min Dai"
+  book: "Economics Letters"
+  year: "June,2023."
+  abstract: >
+     Based on a large sample of waterway traffic citations in China, our analysis reveals that local firms face fines that are 4.3% lower for the same offenses and are more prone to receiving lighter punishments. The leniency in law enforcement is more pronounced in districts with greater social capital and better fiscal conditions. These results indicate that even appointed grassroots officials could engage in hometown favoritism.
+
 - title: "中国制造业技术进步方向的识别与估计"
   pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL2XJbeQ0ZwQzNAwppAhJp3ewLc2Vkb6DtCitAWmisqgDJTYzOe50X6X4oWHdO_bbwLMRrBrwFSfpa6C40dZNyqGmzs6RW2tfbhnTE7-EuBPEQ==&uniplatform=NZKPT&language=gb"
   presscoverage:
@@ -27,16 +51,6 @@ publications:
       text: "尹恒"
   book: "《世界经济》"
   year: "接受待刊，2023。" 
-
-- title: "Hometown Favoritism in Traffic Citations: Evidence from China"
-  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
-  presscoverage:
-    - url: ""
-      text: "Min Dai"
-  book: "Economics Letters"
-  year: "June,2023."
-  abstract: >
-     Based on a large sample of waterway traffic citations in China, our analysis reveals that local firms face fines that are 4.3% lower for the same offenses and are more prone to receiving lighter punishments. The leniency in law enforcement is more pronounced in districts with greater social capital and better fiscal conditions. These results indicate that even appointed grassroots officials could engage in hometown favoritism.
 
 
 
