@@ -6,7 +6,9 @@ title = "Homepage"
 
 Welcome to my webpage!
 
-I am currently PH.D. Candidate in <i>Economics</font></i></font> at <i>[School of Finance, Renmin University of China](http://sf.ruc.edu.cn/)</font></i></font>.
+I am an assistant professor at the [Economics and Management School, Wuhan University in China](https://ems.whu.edu.cn/)</font></i></font>.
+
+I am an assistant professor at the School of Economics, Zhejiang University in China.
 
 My research interests: <i>Labor Market Competition, Productivity Growth,</font></i></font> and <i>Public Economics</font></i></font>. 
 
