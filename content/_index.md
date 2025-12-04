@@ -6,7 +6,9 @@ title = "Homepage"
 
 Welcome to my webpage!
 
-I am an assistant professor at the [Economics and Management School, Wuhan University in China](https://ems.whu.edu.cn/)</font></i></font>.
+I am an assistant professor at the <i>[Economics and Management School, Wuhan University in China](https://ems.whu.edu.cn/)</font></i></font>.
+
+​I received my Ph.D. in Economics at the National School of Development (NSD) (formerly known as China Center for Economic Research, CCER), Peking University in 2024. 
 
 My research interests: <i>Labor Market Competition, Productivity Growth,</font></i></font> and <i>Public Economics</font></i></font>. 
 
