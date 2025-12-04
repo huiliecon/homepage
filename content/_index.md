@@ -16,7 +16,9 @@ E-mail: lihui_econo@163.com
 
 ### Publications
 
-[China's technological rise and its global welfare effects](https://www.sciencedirect.com/science/article/abs/pii/S026499932500402X), with Min Dai, <i><strong>Economics Letters, June, 2023</font></strong></i></font>.
+[Industrial Policy and Capacity Utilization: Evidence from China's Five-Year Plans](https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031), with [Wenzhuo Lu](https://sites.google.com/site/luwenzhuo/home), [Xiaochen Xie](https://xiexiaochen.weebly.com/), [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm) <i><strong>International Journal of Industrial Organization, December, 2025</font></strong></i></font>.
+
+[China's technological rise and its global welfare effects](https://www.sciencedirect.com/science/article/abs/pii/S026499932500402X), with [Wenzhuo Lu](https://sites.google.com/site/luwenzhuo/home), [Aoxin Wang], [Xiaochen Xie](https://xiexiaochen.weebly.com/) <i><strong>Economics Modelling, February, 2026</font></strong></i></font>.
 
 [Hometown Favoritism in Traffic Citations: Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X), with [Min Dai](https://cpi.sufe.edu.cn/63/49/c13240a222025/page.htm), <i><strong>Economics Letters, June, 2023</font></strong></i></font>.
 
