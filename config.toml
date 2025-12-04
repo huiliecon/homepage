@@ -11,11 +11,11 @@ name = "Hui Li"
 homepage = "https://huili.netlify.app/"
 
 [params]
-institution = "School of Finance, Renmin University of China"
-shortbio = "Ph.D. candidate in Economics"
+institution = "Economics and Management School, Wuhan University"
+shortbio = "Assistant Professor"
 logo = ""
 Twitter = "Hui_Li_RUC"
-Email = "lihuieco@ruc.edu.cn"
+Email = "lihui_econo@163.com"
 
 [markup]
   [markup.highlight]
