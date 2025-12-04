@@ -8,8 +8,6 @@ Welcome to my webpage!
 
 I am an assistant professor at the [Economics and Management School, Wuhan University in China](https://ems.whu.edu.cn/)</font></i></font>.
 
-I am an assistant professor at the School of Economics, Zhejiang University in China.
-
 My research interests: <i>Labor Market Competition, Productivity Growth,</font></i></font> and <i>Public Economics</font></i></font>. 
 
 E-mail: lihuieco@ruc.edu.cn
