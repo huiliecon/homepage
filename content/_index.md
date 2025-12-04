@@ -14,6 +14,7 @@ My research interests: <i>Labor Market Competition, Productivity Growth,</font><
 
 E-mail: lihui_econo@163.com
 
+
 ### Publications
 
 [Industrial Policy and Capacity Utilization: Evidence from China's Five-Year Plans](https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031), with [Wenzhuo Lu](https://sites.google.com/site/luwenzhuo/home), [Xiaochen Xie](https://xiexiaochen.weebly.com/), [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), <i><strong>International Journal of Industrial Organization</font></strong></i></font>, December, 2025.
