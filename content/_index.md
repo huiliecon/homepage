@@ -2,9 +2,7 @@
 title = "Homepage"
 +++
 
-## About me
-
-Welcome to my webpage!
+## Welcome to my webpage!
 
 I am an assistant professor at the <i>[Economics and Management School, Wuhan University in China](https://ems.whu.edu.cn/)</font></i></font>.
 
@@ -12,9 +10,14 @@ I am an assistant professor at the <i>[Economics and Management School, Wuhan Un
 
 My research interests: <i>Labor Market Competition, Productivity Growth,</font></i></font> and <i>Public Economics</font></i></font>. 
 
+
+
+### Contact
+<strong>Address:</font></strong></font>: Department of Economics
+Littauer Center 232
+Harvard University
+Cambridge, MA 02138
 E-mail: lihui_econo@163.com
-
-
 
 ### Selected Publications
 
