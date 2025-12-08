@@ -10,17 +10,16 @@ I am an assistant professor at the <i>[Economics and Management School, Wuhan Un
 
 My research interests: <i>Labor Market Competition, Productivity Growth,</font></i></font> and <i>Public Economics</font></i></font>. 
 
+## Contact
 
-### Contact
-<strong>Address:</font></strong></font> School of Economic and Management, 316
+**Address:** 
+School of Economic and Management 316
+Wuhan University  
+Hubei, China 430072  
 
-Wuhan University
+**Email:** lihui_econo@163.com     
 
-Wuhan, China
-
-<strong>E-mail:</font></strong></font> lihui_econo@163.com
-
-### Selected Publications
+## Selected Publications
 
 [Industrial Policy and Capacity Utilization: Evidence from China's Five-Year Plans](https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031), with [Wenzhuo Lu](https://sites.google.com/site/luwenzhuo/home), [Xiaochen Xie](https://xiexiaochen.weebly.com/), [Heng Yin](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), <i><strong>International Journal of Industrial Organization</font></strong></i></font>, December, 2025.
 
