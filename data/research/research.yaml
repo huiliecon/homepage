@@ -10,7 +10,7 @@ publications:
       text: "Xiaochen Xie"
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "Heng Yin"
-  book: "International Journal of Industrial Organization"
+  book: " <i><strong>International Journal of Industrial Organization</font></strong></i></font>"
   year: "December, 2025."
   abstract: >
      This paper investigates the impact of government industrial policy on firm capacity utilization and resource misallocation. We develop an estimation methodology based on firm cost minimization to determine optimal and actual production capacities. Using China’s 12th Five-Year Plan, initiated in 2011, as a natural experiment, we apply a difference-in-differences estimation method. Our findings show that the policy support for targeted industries was associated with lower capacity utilization rates among Chinese firms. Mechanism analysis indicates that tax incentives fostered more optimistic market expectations, resulting in increased investments and higher production capacity. At the same time, these policies appear to have stimulated additional market entry, which, while promoting competition and technological upgrading, may have also led to smaller market shares per firm and potential resource allocation frictions.
@@ -31,7 +31,7 @@ publications:
 - title: "Hometown Favoritism in Traffic Citations: Evidence from China"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
   presscoverage:
-    - url: ""
+    - url: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
       text: "Min Dai"
   book: "Economics Letters"
   year: "June,2023."
