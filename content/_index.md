@@ -13,7 +13,7 @@ My research interests: <i>Labor Market Competition, Productivity Growth,</font><
 ## Contact
 
 **Address:** 
-School of Economic and Management 316
+School of Economic and Management 316  
 Wuhan University  
 Hubei, China 430072  
 
