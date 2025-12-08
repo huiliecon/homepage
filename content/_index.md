@@ -14,9 +14,7 @@ My research interests: <i>Labor Market Competition, Productivity Growth,</font><
 
 E-mail: lihui_econo@163.com
 
-### Working Papers
 
-《效率差异、市场扭曲与企业间工资不平等》，和 [王中华](https://csxy.zuel.edu.cn/2024/0806/c7501a370590/page.htm)、[邹先强](http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm)、[尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm)。
 
 ### Selected Publications
 
