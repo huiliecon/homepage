@@ -302,7 +302,7 @@ p.sidebar {
   margin-top: -10px;}
 
 a {
-  color: #7a1a1a;
+  color: #1b6382;
   text-decoration: none; }
 
 a:hover, a:focus {
@@ -365,7 +365,7 @@ header {
   left: 0px;
   bottom: 0px;
   padding: 2.5vw;
-  width: 18vw;
+  width: 20vw;
   height: 100vh;
   -webkit-font-smoothing: subpixel-antialiased; }
 
