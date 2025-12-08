@@ -360,12 +360,12 @@ img {
 header {
   float: left;
   position: fixed;
-  background: #752222;
+  background: #731919;
   top: 0px;
   left: 0px;
   bottom: 0px;
   padding: 2.5vw;
-  width: 18vw;
+  width: 20vw;
   height: 100vh;
   -webkit-font-smoothing: subpixel-antialiased; }
 
