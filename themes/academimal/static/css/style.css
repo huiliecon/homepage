@@ -361,11 +361,11 @@ header {
   float: left;
   position: fixed;
   background: #590c0c;
-  top: 10px;
-  left: 10px;
-  bottom: 10px;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
   padding: 2.5vw;
-  width: 20vw;
+  width: 18vw;
   height: 100vh;
   -webkit-font-smoothing: subpixel-antialiased; }
 
