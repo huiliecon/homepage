@@ -59,11 +59,11 @@ publications:
       text: "张道远"
   book: "《经济研究》"
   year: "2023年第4期。" 
-  links:
-    - url: "https://huiliecon.github.io/Papers/2023,biased%20technology%20change.pdf"
-      text: "Published version"
-    - url: "https://github.com/huiliecon/huiliecon.github.io/blob/09db05df0cb38fae1e995c530861cd4e1ec4bac3/Papers/slides_biased_technology_change.pdf"
-      text: "Slides"
+  # links:
+  #  - url: "https://huiliecon.github.io/Papers/2023,biased%20technology%20change.pdf"
+  #    text: "Published version"
+  #  - url: "https://github.com/huiliecon/huiliecon.github.io/blob/09db05df0cb38fae1e995c530861cd4e1ec4bac3/Papers/slides_biased_technology_change.pdf"
+  #    text: "Slides"
   abstract: >
      技术进步方向是决定经济增长和要素分配的关键因素之一。然而目前学界对于技术进步方向的定量研究仍然十分欠缺。本文尝试在生产函数中同时引入希克斯中性生产率和劳动增强型生产率，直接在微观层面识别和估计技术进步方向。综合使用1999—2016年中国工业企业数据与全国税收调查数据的估计结果显示，样本期内中国制造业技术进步具有明显的偏向性特征: 劳动增强型生产率增速保持稳定，年均增长10% ，带动产出年均增长1.0%;希克斯中性生产率带动产出年均增长2.5%，但金融危机过后尤其是2011年后增速明显放缓。这意味着随着时间演进，有偏技术进步对产出的相对贡献不断提高，并在样本后期成为产出增长的主要源泉。估计结果还显示，制造业效率的提高主要源于企业自身成长，行业内资源配置的贡献有限，配置效率仍然存在较大改善空间。本文刻画了21世纪近20年中国制造业技术变迁的整体图景，可以为新常态下推动技术创新、促进高质量发展的政策选择提供重要的经验支撑。
 
