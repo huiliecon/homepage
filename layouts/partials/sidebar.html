@@ -5,22 +5,22 @@
 
 {{ $.Scratch.Set "currentPageTitle" .Title }}
 
-<p class="sidebar" style="font-size:20px"><a class="sidebar" href="{{"" | relURL }}">Home</a></p>
+<p class="sidebar" style="font-size:18px"><a class="sidebar" href="{{"" | relURL }}">Home</a></p>
 {{ range .Site.Menus.main }}
-<p class="sidebar" style="font-size:20px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
+<p class="sidebar" style="font-size:18px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
 	{{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working Papers</a></p>
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#Publications" | relURL }}">Publications</a></p>
 	{{end}}
 {{ end }}
 
-<p class="sidebar" style="font-size:20px"><a class="sidebar" href="">Useful Links</a></p>
+<p class="sidebar" style="font-size:18px"><a class="sidebar" href="">Bio and CV</a></p>
 
-<p class="sidebar" style="font-size:20px"><a class="sidebar" href="">Bio and CV</a></p>
+<p class="sidebar" style="font-size:18px"><a class="sidebar" href="">Useful Links</a></p>
 
 <p class="sidebar">
 	<img src="{{ "/icons/twitter-white.png" | relURL }}" class="octicons">
-<a class="sidebar" style="font-size:20px" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
+<a class="sidebar" style="font-size:18px" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
 @{{ .Site.Params.Twitter }}
 </a></p>
 
