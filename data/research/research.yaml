@@ -1,6 +1,20 @@
 
 publications:
 
+- title: "Industrial Policy and Capacity Utilization: Evidence from China’s Five-Year Plans"
+  pdflink: ""
+  presscoverage:
+    - url: ""
+      text: "Wenzhuo Lu"
+    - url: ""
+      text: "Xiaochen Xie"
+    - url: ""
+      text: "Heng Yin"
+  book: "International Journal of Industrial Organization"
+  year: "December, 2025."
+  abstract: >
+     This paper investigates the impact of government industrial policy on firm capacity utilization and resource misallocation. We develop an estimation methodology based on firm cost minimization to determine optimal and actual production capacities. Using China’s 12th Five-Year Plan, initiated in 2011, as a natural experiment, we apply a difference-in-differences estimation method. Our findings show that the policy support for targeted industries was associated with lower capacity utilization rates among Chinese firms. Mechanism analysis indicates that tax incentives fostered more optimistic market expectations, resulting in increased investments and higher production capacity. At the same time, these policies appear to have stimulated additional market entry, which, while promoting competition and technological upgrading, may have also led to smaller market shares per firm and potential resource allocation frictions.
+
 - title: "China’s technological rise and its global welfare effects"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S026499932500402X"
   presscoverage:
@@ -25,7 +39,7 @@ publications:
   abstract: >
      Based on a large sample of waterway traffic citations in China, our analysis reveals that local firms face fines that are 4.3% lower for the same offenses and are more prone to receiving lighter punishments. The leniency in law enforcement is more pronounced in districts with greater social capital and better fiscal conditions. These results indicate that even appointed grassroots officials could engage in hometown favoritism.
 
-- title: "中国制造业技术进步方向的识别与估计"
+- title: "《中国制造业技术进步方向的识别与估计》"
   pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL2XJbeQ0ZwQzNAwppAhJp3ewLc2Vkb6DtCitAWmisqgDJTYzOe50X6X4oWHdO_bbwLMRrBrwFSfpa6C40dZNyqGmzs6RW2tfbhnTE7-EuBPEQ==&uniplatform=NZKPT&language=gb"
   presscoverage:
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
@@ -42,7 +56,19 @@ publications:
   abstract: >
      技术进步方向是决定经济增长和要素分配的关键因素之一。然而目前学界对于技术进步方向的定量研究仍然十分欠缺。本文尝试在生产函数中同时引入希克斯中性生产率和劳动增强型生产率，直接在微观层面识别和估计技术进步方向。综合使用1999—2016年中国工业企业数据与全国税收调查数据的估计结果显示，样本期内中国制造业技术进步具有明显的偏向性特征: 劳动增强型生产率增速保持稳定，年均增长10% ，带动产出年均增长1.0%;希克斯中性生产率带动产出年均增长2.5%，但金融危机过后尤其是2011年后增速明显放缓。这意味着随着时间演进，有偏技术进步对产出的相对贡献不断提高，并在样本后期成为产出增长的主要源泉。估计结果还显示，制造业效率的提高主要源于企业自身成长，行业内资源配置的贡献有限，配置效率仍然存在较大改善空间。本文刻画了21世纪近20年中国制造业技术变迁的整体图景，可以为新常态下推动技术创新、促进高质量发展的政策选择提供重要的经验支撑。
 
-- title: "区域扶贫政策的经济增长效应——来自新一轮扶贫开发计划的证据" 
+- title: "《缓解劳动力市场势力的制度安排：最低工资的视角》" 
+  pdflink: "" 
+  presscoverage:
+    - url: ""
+      text: "邹先强"
+    - url: ""
+      text: "李瑶"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+  book: "《管理世界》"
+  year: "2024年第11期。" 
+
+- title: "《中国特色减贫道路：来自扶贫开发计划的证据》" 
   pdflink: "" 
   presscoverage:
     - url: "https://csxy.zuel.edu.cn/2022/0826/c7501a304283/page.htm"
@@ -50,7 +76,7 @@ publications:
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "尹恒"
   book: "《世界经济》"
-  year: "接受待刊，2023。" 
+  year: "2024年第7期。" 
 
 
 
