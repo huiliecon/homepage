@@ -1,5 +1,16 @@
 
-publications:
+Working Papers:
+
+- title: "效率差异、市场扭曲与企业间工资不平等"
+  presscoverage:
+    - url: "https://csxy.zuel.edu.cn/2024/0806/c7501a370590/page.htm"
+      text: "王中华"
+    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
+      text: "邹先强"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+
+Publications:
 
 - title: "Industrial Policy and Capacity Utilization: Evidence from China’s Five-Year Plans"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031"
@@ -59,9 +70,9 @@ publications:
 - title: "《缓解劳动力市场势力的制度安排：最低工资的视角》" 
   pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkH2i4AuYybIwUYNIhS6HxoVhoUtjhCTcPM_0evM7dsxN7bAFJl5Jht4C__YOTUDDy9K6UyH_DKR3y0q5h5lb4Loxc4MGb4Kl_vfIkq_0BH_lepCN5ZxyM6N3RuinYpu0eVGbklXH2j2mdvHykptUo8Nijsgxg4bqAhHNdW5cVYhsQ==&uniplatform=NZKPT&language=CHS" 
   presscoverage:
-    - url: ""
+    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
       text: "邹先强"
-    - url: ""
+    - url: "https://yaoli.people.ust.hk/"
       text: "李瑶"
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "尹恒"
