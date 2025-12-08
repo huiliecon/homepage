@@ -10,7 +10,7 @@ publications:
       text: "Xiaochen Xie"
     - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
       text: "Heng Yin"
-  book: " <i><strong>International Journal of Industrial Organization</font></strong></i></font>"
+  book: "International Journal of Industrial Organization"
   year: "December, 2025."
   abstract: >
      This paper investigates the impact of government industrial policy on firm capacity utilization and resource misallocation. We develop an estimation methodology based on firm cost minimization to determine optimal and actual production capacities. Using China’s 12th Five-Year Plan, initiated in 2011, as a natural experiment, we apply a difference-in-differences estimation method. Our findings show that the policy support for targeted industries was associated with lower capacity utilization rates among Chinese firms. Mechanism analysis indicates that tax incentives fostered more optimistic market expectations, resulting in increased investments and higher production capacity. At the same time, these policies appear to have stimulated additional market entry, which, while promoting competition and technological upgrading, may have also led to smaller market shares per firm and potential resource allocation frictions.
@@ -20,7 +20,8 @@ publications:
   presscoverage:
     - url: "https://sites.google.com/site/luwenzhuo/home"
       text: "Wenzhuo Lu"
-    - text: "Aoxin Wang"
+    - url: ""
+      text: "Aoxin Wang"
     - url: "https://xiexiaochen.weebly.com"
       text: "Xiaochen Xie"
   book: "Economics Modelling"
@@ -31,7 +32,7 @@ publications:
 - title: "Hometown Favoritism in Traffic Citations: Evidence from China"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
   presscoverage:
-    - url: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
+    - url: "https://cpi.sufe.edu.cn/63/49/c13240a222025/page.htm"
       text: "Min Dai"
   book: "Economics Letters"
   year: "June,2023."
@@ -67,6 +68,16 @@ publications:
   book: "《管理世界》"
   year: "2024年第11期。" 
 
+- title: "《中国企业社保缴费遵从的测算与分析》" 
+  pdflink: "" 
+  presscoverage:
+    - url: ""
+      text: "曹斯蔚"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+  book: "《管理世界》"
+  year: "2025年第3期。" 
+
 - title: "《中国特色减贫道路：来自扶贫开发计划的证据》" 
   pdflink: "" 
   presscoverage:
@@ -77,7 +88,23 @@ publications:
   book: "《世界经济》"
   year: "2024年第7期。" 
 
+- title: "《制造业企业的劳动力市场垄断势力：非中性技术进步环境下的识别与估计》" 
+  pdflink: "" 
+  presscoverage:
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+    - url: ""
+      text: "张道远"
+  book: "《中国工业经济》"
+  year: "2024年第8期。" 
 
-
-
+- title: "《要素替代弹性、有偏技术进步和劳动收入份额上升》" 
+  pdflink: "" 
+  presscoverage:
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
+    - url: ""
+      text: "张道远"
+  book: "《财贸经济》"
+  year: "2024年第1期。" 
 
