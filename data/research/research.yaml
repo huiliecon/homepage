@@ -25,7 +25,6 @@ publications:
   abstract: >
      This paper investigates the impact of government industrial policy on firm capacity utilization and resource misallocation. We develop an estimation methodology based on firm cost minimization to determine optimal and actual production capacities. Using China’s 12th Five-Year Plan, initiated in 2011, as a natural experiment, we apply a difference-in-differences estimation method. Our findings show that the policy support for targeted industries was associated with lower capacity utilization rates among Chinese firms. Mechanism analysis indicates that tax incentives fostered more optimistic market expectations, resulting in increased investments and higher production capacity. At the same time, these policies appear to have stimulated additional market entry, which, while promoting competition and technological upgrading, may have also led to smaller market shares per firm and potential resource allocation frictions.
 
-
 - title: "China’s technological rise and its global welfare effects"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S026499932500402X"
   presscoverage:
@@ -78,7 +77,9 @@ publications:
       text: "尹恒"
   book: "《管理世界》"
   year: "2024年第11期。" 
-
+  abstract: >
+    缓解劳动力市场势力，是改善劳资收入分配、实现共同富裕目标的关键所在。本文借助 2007~2016年全国税收调查数据，直接在微观层面估计了企业的劳动力市场势力，结果显示中国制造业劳动折价率均值为 1.677，意味着工人只能得到其边际产出的 59.6%。随着时间演进，样本期内劳动折价率迅速下降，劳资收入分配状况明显改善。基于上述估计结果，本文考察了最低工资制度的影响。研究发现：第一，最低工资显著弱化了企业的劳动力市场势力。根据最为保守估计结果，最低工资上涨 10%，劳动折价率平均下降 0.48%。据此推算，最低工资的提高能够解释样本期内劳动折价率变化的 12.05%。第二，在不同竞争程度的劳动力市场中，最低工资的就业效应存在显著差异。第三，最低工资还会降低地区—行业内劳动折价率的离散程度，改善资源配置效率。本文研究深化了对于劳资收入分配和最低工资制度的理解，为新时期推进要素市场化改革提供了有益启示。
+  
 - title: "《中国企业社保缴费遵从的测算与分析》" 
   pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkF-BOTDC61SQXwJ0-WMd3XgmnCJZOjo-Feof3XzcardffmkM6FaXzX_elDYrpLBIKUNn9iCJZTyAIGXfILupYO83TgdSvVNftnsOn7jt8FxSaTvXb1zLtCaZE3e4Zw6xOSyYRRwCcKE4VV7U4-9BhizVKrCA5purwCeLsKZyY3mXg==&uniplatform=NZKPT&language=CHS" 
   presscoverage:
