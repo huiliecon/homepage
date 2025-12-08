@@ -11,8 +11,8 @@ name = "Hui Li"
 homepage = "https://huili.netlify.app/"
 
 [params]
+title = "Assistant Professor"
 institution = "Economics and Management School, Wuhan University"
-shortbio = "Assistant Professor"
 logo = ""
 Twitter = "Hui_Li_RUC"
 Email = "lihui_econo@163.com"
