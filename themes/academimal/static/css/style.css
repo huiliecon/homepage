@@ -361,9 +361,9 @@ header {
   float: left;
   position: fixed;
   background: #590c0c;
-  top: 0px;
-  left: 0px;
-  bottom: 0px;
+  top: 10px;
+  left: 10px;
+  bottom: 10px;
   padding: 2.5vw;
   width: 20vw;
   height: 100vh;
