@@ -2,7 +2,7 @@
 title = "Homepage"
 +++
 
-## Welcome to my webpage!
+## Welcome to my homepage!
 
 I am an assistant professor at the <i>[Economics and Management School, Wuhan University in China](https://ems.whu.edu.cn/)</font></i></font>.
 
