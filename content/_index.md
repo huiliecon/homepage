@@ -8,7 +8,7 @@ I am an assistant professor at the <i>[Economics and Management School, Wuhan Un
 
 ​I received my Ph.D. in Economics at the <i>[School of Finance, Renmin University of China](http://sf.ruc.edu.cn/)</font></i></font> in 2024. 
 
-My research interests: <i>Labor Market Competition, Productivity Growth,</font></i></font> and <i>Public Economics</font></i></font>. 
+My research fields include <i>empirical industrial organization, public economics,</font></i></font> and <i>labor economics</font></i></font>. My recent work focuses on firm’ productivity and market power, exploring their causes and economic impacts.
 
 ## Contact
 
@@ -17,8 +17,10 @@ School of Economic and Management 316
 Wuhan University  
 Hubei, China 430072  
 
-**Email:** lihui_econo@163.com     
+**Email:** lihui_econo@163.com      
 
+
+      
 ## Selected Publications
 
 [Industrial Policy and Capacity Utilization: Evidence from China’s Five-Year Plans](https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031), with [Wenzhuo Lu](https://sites.google.com/site/luwenzhuo/home), [Xiaochen Xie](https://xiexiaochen.weebly.com/), [Heng Yin](http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm), <i>International Journal of Industrial Organization</font></i></font>, December, 2025.
