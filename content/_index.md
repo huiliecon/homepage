@@ -23,7 +23,7 @@ Hubei, China 430072
       
 ## Selected Publications
 
-[Industrial Policy and Capacity Utilization: Evidence from China’s Five-Year Plans](https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031), with [Wenzhuo Lu](https://sites.google.com/site/luwenzhuo/home), [Xiaochen Xie](https://xiexiaochen.weebly.com/), [Heng Yin](http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm), <i>International Journal of Industrial Organization</font></i></font>, December, 2025.
+[Industrial Policy and Capacity Utilization: Evidence from China’s Five-Year Plans](https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031), with [Wenzhuo Lu](https://sites.google.com/site/luwenzhuo/home), [Xiaochen Xie](https://xiexiaochen.weebly.com/), [Heng Yin](http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm), International Journal of Industrial Organization, December, 2025.
 
 [《中国制造业技术进步方向的识别与估计》](https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL24hQfEGnar8Q-XNyrH6ZgG4xOMH82vosvoNfEU5mgCxSIyWypZeRjzJ84mU_QgKrV4q11VUHL4sIrNLH7W_tq9B7iyIfEV79I47IT4UQYDNg==&uniplatform=NZKPT&language=gb)，和[尹恒](http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm)、张道远，《经济研究》，2023年第4期。
 
