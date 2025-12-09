@@ -8,7 +8,7 @@ I am an assistant professor at the <i>[Economics and Management School, Wuhan Un
 
 ​I received my Ph.D. in Economics at the <i>[School of Finance, Renmin University of China](http://sf.ruc.edu.cn/)</font></i></font> in 2024. 
 
-My research fields include <i>empirical industrial organization, public economics,</font></i></font> and <i>labor economics</font></i></font>. My recent work focuses on firm’ productivity and market power, exploring their causes and economic impacts.
+My research fields include <i>empirical industrial organization, public economics,</font></i></font> and <i>labor economics</font></i></font>. My recent work focuses on firm’s productivity and market power, exploring their causes and economic impacts.
 
 ## Contact
 
