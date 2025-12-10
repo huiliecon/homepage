@@ -6,9 +6,10 @@ weight = 1
 
 **2025:**
 
-*"Public Finance"* Wuhan University
+*"Public Finance"*, Wuhan University
+*"Frontier Issues in Finance and Taxation"*
 
-The Economist *"To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva"* [[PDF]](https://socialeconomicslab.org/zero_sum_economist/)
+
 
 **2024:**
 
