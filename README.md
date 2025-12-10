@@ -1,6 +1,6 @@
-### Stefanie Stantcheva's Website - Documentation
+### Li Hui's Website - Documentation
 
-This website was built using Hugo, the Academimal theme for Hugo and elements from Lei Yang's and Gautam Rao's website. Thanks a lot to both!
+This website was built using Hugo, the Academimal theme for Hugo and elements from Stefanie Stantcheva's, Lei Yang's and Gautam Rao's website. Thanks a lot to both!
 
 **If you want to build your own website:** The simplest avenue is to [install Hugo](https://gohugo.io/getting-started/quick-start/), clone this GitHub repository to your computer, modify the parts you want to change and render it locally. You can then host it online using [Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/), [Render](https://gohugo.io/hosting-and-deployment/hosting-on-render/), [GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/) or a similar services.
 
