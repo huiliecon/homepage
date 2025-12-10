@@ -18,11 +18,6 @@
 
 <p class="sidebar" style="font-size:18px"><a class="sidebar" href="">Useful Links</a></p>
 
-<p class="sidebar">
-	<img src="{{ "/icons/twitter-white.png" | relURL }}" class="octicons">
-<a class="sidebar" style="font-size:18px" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
-@{{ .Site.Params.Twitter }}
-</a></p>
 
 {{ with .Site.Params.logo }}
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
