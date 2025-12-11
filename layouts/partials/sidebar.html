@@ -15,13 +15,6 @@
 	{{end}}
 {{ end }}
 
-<p class="sidebar" style="font-size:18px" ><a class="sidebar" href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
-	{{ if and (eq "Resources" ($.Scratch.Get "currentPageTitle")) (eq "Resources" .Title) }}
-	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "Resources/#Links" | relURL }}">Links</a></p>
-	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "Resources/#JMP" | relURL }}">JMP</a></p>
-	{{end}}
-{{ end }}
-
 <p class="sidebar" style="font-size:18px"><a class="sidebar" href="https://www.dropbox.com/scl/fi/exx033q4gxoobqcg6cka2/resume.pdf?rlkey=8o2y2wji1ebnh4t6bbp0duh77&dl=0">CV</a></p>
 
 {{ with .Site.Params.logo }}
