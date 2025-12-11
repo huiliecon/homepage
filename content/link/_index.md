@@ -3,12 +3,15 @@ title = "Useful Links"
 weight = 1
 +++
 
-**Scholar's Homepage:**
+If you are interested in **IO** and **Public Economics**, you can pay attention to the following scholars (including but not limited to).
+
+**IO:**
 
 
 
-**PHD Guide :**
+**Public Economics:**
 
-*"Writing tips for Ph.D. students"*, by John Cochrane.
+
+
 
 
