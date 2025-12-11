@@ -30,6 +30,8 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 [Raj Cheety](https://rajchetty.com/)
 
+[Joel Slemrod](https://webuser.bus.umich.edu/jslemrod/)
+
 [Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
 
 [Juan Carlos Suárez Serrato](https://www.jcsuarez.com/)
