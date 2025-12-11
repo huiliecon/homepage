@@ -13,6 +13,8 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 [Daniel Yi Xu](https://sites.google.com/site/yixusite/)
 
+[Devesh R. Raval](https://www.devesh-raval.com/)
+
 [Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
 
 [Mert Demirer](https://www.mertdemirer.com/)
