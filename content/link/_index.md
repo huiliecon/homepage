@@ -15,6 +15,8 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 [Devesh R. Raval](https://www.devesh-raval.com/)
 
+[Jan Eeckhout](https://www.janeeckhout.com/)
+
 [Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
 
 [Mert Demirer](https://www.mertdemirer.com/)
@@ -24,7 +26,6 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 [Paul Grieco](https://paulgrieco.github.io/)
 
 [Panle Jia Barwick](https://panlebarwick.github.io/)
-
 
 **Public Economics:**
 
