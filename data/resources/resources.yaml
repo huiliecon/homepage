@@ -1,0 +1,143 @@
+workingpapers:
+
+- title: "《效率差异、市场扭曲与企业间工资不平等》"
+  presscoverage:
+    - url: "https://csxy.zuel.edu.cn/2024/0806/c7501a370590/page.htm"
+      text: "王中华"
+    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
+      text: "邹先强"
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+  book: "Working Paper"
+  year: "December, 2025."
+
+publications:
+
+- title: "Industrial Policy and Capacity Utilization: Evidence from China’s Five-Year Plans"
+  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S0167718725001031"
+  presscoverage:
+    - url: "https://sites.google.com/site/luwenzhuo/home"
+      text: "Wenzhuo Lu"
+    - url: "https://xiexiaochen.weebly.com"
+      text: "Xiaochen Xie"
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "Heng Yin"
+  book: "International Journal of Industrial Organization"
+  year: "January, 2026."
+  abstract: >
+     This paper investigates the impact of government industrial policy on firm capacity utilization and resource misallocation. We develop an estimation methodology based on firm cost minimization to determine optimal and actual production capacities. Using China’s 12th Five-Year Plan, initiated in 2011, as a natural experiment, we apply a difference-in-differences estimation method. Our findings show that the policy support for targeted industries was associated with lower capacity utilization rates among Chinese firms. Mechanism analysis indicates that tax incentives fostered more optimistic market expectations, resulting in increased investments and higher production capacity. At the same time, these policies appear to have stimulated additional market entry, which, while promoting competition and technological upgrading, may have also led to smaller market shares per firm and potential resource allocation frictions.
+
+- title: "China’s technological rise and its global welfare effects"
+  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S026499932500402X"
+  presscoverage:
+    - url: "https://sites.google.com/site/luwenzhuo/home"
+      text: "Wenzhuo Lu"
+    - url: ""
+      text: "Aoxin Wang"
+    - url: "https://xiexiaochen.weebly.com"
+      text: "Xiaochen Xie"
+  book: "Economic Modelling"
+  year: "February,2026."
+  abstract: >
+     This paper examines how China’s technological progress has evolved since 1979 and its impact on global welfare. Using a multi-country Ricardian trade model and data from the 50 largest economies, we estimate China’s technological trajectory over time. Although China still trails world leaders such as the United States, it has substantially closed the gap with advanced economies. Counterfactual analysis shows that had China’s technology remained at its WTO accession level, global trade gains would be 3.47% lower. Conversely, a 2.5% reduction in trade costs under the Belt and Road Initiative could raise welfare gains from China’s progress by 2.92%. Projections suggest that continued upgrading, together with China’s economic scale, will further shape global trade outcomes. The results highlight both the opportunities and challenges China’s technological trajectory poses for the world economy.
+
+- title: "Hometown Favoritism in Traffic Citations: Evidence from China"
+  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
+  presscoverage:
+    - url: "https://cpi.sufe.edu.cn/63/49/c13240a222025/page.htm"
+      text: "Min Dai"
+  book: "Economics Letters"
+  year: "June,2023."
+  abstract: >
+     Based on a large sample of waterway traffic citations in China, our analysis reveals that local firms face fines that are 4.3% lower for the same offenses and are more prone to receiving lighter punishments. The leniency in law enforcement is more pronounced in districts with greater social capital and better fiscal conditions. These results indicate that even appointed grassroots officials could engage in hometown favoritism.
+
+- title: "《中国制造业技术进步方向的识别与估计》"
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL24hQfEGnar8Q-XNyrH6ZgG4xOMH82vosvoNfEU5mgCxSIyWypZeRjzJ84mU_QgKrV4q11VUHL4sIrNLH7W_tq9B7iyIfEV79I47IT4UQYDNg==&uniplatform=NZKPT&language=gb"
+  presscoverage:
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+    - url: ""
+      text: "张道远"
+  book: "《经济研究》"
+  year: "2023年第4期。" 
+  # links:
+  #  - url: "https://huiliecon.github.io/Papers/2023,biased%20technology%20change.pdf"
+  #    text: "Published version"
+  #  - url: "https://github.com/huiliecon/huiliecon.github.io/blob/09db05df0cb38fae1e995c530861cd4e1ec4bac3/Papers/slides_biased_technology_change.pdf"
+  #    text: "Slides"
+  abstract: >
+     技术进步方向是决定经济增长和要素分配的关键因素之一。然而目前学界对于技术进步方向的定量研究仍然十分欠缺。本文尝试在生产函数中同时引入希克斯中性生产率和劳动增强型生产率，直接在微观层面识别和估计技术进步方向。综合使用1999—2016年中国工业企业数据与全国税收调查数据的估计结果显示，样本期内中国制造业技术进步具有明显的偏向性特征: 劳动增强型生产率增速保持稳定，年均增长10% ，带动产出年均增长1.0%;希克斯中性生产率带动产出年均增长2.5%，但金融危机过后尤其是2011年后增速明显放缓。这意味着随着时间演进，有偏技术进步对产出的相对贡献不断提高，并在样本后期成为产出增长的主要源泉。估计结果还显示，制造业效率的提高主要源于企业自身成长，行业内资源配置的贡献有限，配置效率仍然存在较大改善空间。本文刻画了21世纪近20年中国制造业技术变迁的整体图景，可以为新常态下推动技术创新、促进高质量发展的政策选择提供重要的经验支撑。
+
+- title: "《缓解劳动力市场势力的制度安排：最低工资的视角》" 
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkH2i4AuYybIwUYNIhS6HxoVhoUtjhCTcPM_0evM7dsxN7bAFJl5Jht4C__YOTUDDy9K6UyH_DKR3y0q5h5lb4Loxc4MGb4Kl_vfIkq_0BH_lepCN5ZxyM6N3RuinYpu0eVGbklXH2j2mdvHykptUo8Nijsgxg4bqAhHNdW5cVYhsQ==&uniplatform=NZKPT&language=CHS" 
+  presscoverage:
+    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
+      text: "邹先强"
+    - url: "https://yaoli.people.ust.hk/"
+      text: "李瑶"
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+  book: "《管理世界》"
+  year: "2024年第11期。" 
+  abstract: >
+    缓解劳动力市场势力，是改善劳资收入分配、实现共同富裕目标的关键所在。本文借助 2007~2016年全国税收调查数据，直接在微观层面估计了企业的劳动力市场势力，结果显示中国制造业劳动折价率均值为 1.677，意味着工人只能得到其边际产出的 59.6%。随着时间演进，样本期内劳动折价率迅速下降，劳资收入分配状况明显改善。基于上述估计结果，本文考察了最低工资制度的影响。研究发现：第一，最低工资显著弱化了企业的劳动力市场势力。根据最为保守估计结果，最低工资上涨 10%，劳动折价率平均下降 0.48%。据此推算，最低工资的提高能够解释样本期内劳动折价率变化的 12.05%。第二，在不同竞争程度的劳动力市场中，最低工资的就业效应存在显著差异。第三，最低工资还会降低地区—行业内劳动折价率的离散程度，改善资源配置效率。本文研究深化了对于劳资收入分配和最低工资制度的理解，为新时期推进要素市场化改革提供了有益启示。
+  
+- title: "《中国企业社保缴费遵从的测算与分析》" 
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkF-BOTDC61SQXwJ0-WMd3XgmnCJZOjo-Feof3XzcardffmkM6FaXzX_elDYrpLBIKUNn9iCJZTyAIGXfILupYO83TgdSvVNftnsOn7jt8FxSaTvXb1zLtCaZE3e4Zw6xOSyYRRwCcKE4VV7U4-9BhizVKrCA5purwCeLsKZyY3mXg==&uniplatform=NZKPT&language=CHS" 
+  presscoverage:
+    - url: ""
+      text: "曹斯蔚"
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+  book: "《管理世界》"
+  year: "2025年第3期。" 
+  abstract: >
+    中国企业长期存在社保缴费法定费率与实际费率不一致的问题。本文基于地级市法定费率文件和全国税收调查数据，系统分析了 2007~2020 年间中国企业社保缴费的遵从状况。研究发现：第一，中国企业社保缴费不遵从现象十分普遍。样本期内缴纳社保的企业占比仅为 64.66%，社保缴费遵从度只有 51.30%。企业社保缴费遵从度呈现上升趋势，特别在 2011 年《中华人民共和国社会保险法》和 2019 年《降低社会保险费率综合方案》实施之后显著提高。第二，不同地区、行业、所有制和规模的企业间，社保缴费遵从度存在显著差异。第三，企业间社保负担不平等问题十分突出。这主要源于社保缴费遵从度的差异，法定费率差异的贡献较小。第四，动态分解显示，总体社保缴费遵从度的变化主要源于在位企业的遵从度提高，企业间生产要素的重新配置和企业进入退出的影响有限。第五，妥善解决企业社保缴费的不遵从问题，对于缓解社会保障基金长期压力问题具有显著效果。本文的研究结果表明，未来应当继续强化对社保费率的征收管理，逐步消除企业社保缴费法定费率与实际费率之间的“鸿沟”。
+
+- title: "《中国特色减贫道路：来自扶贫开发计划的证据》" 
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkEcLGcPMgC5D1eniGRY9Z9D9J7mYMj8r6ik1AbuUtXdmfc5HeIjmQE7W7WKyED40dTddTp5uOXkXxjpAWXjIeAchXNzeyxs1q6JsVBIpCGQX4cmnQp_IiQfywUJyAV9dJ6usrdXN1q2mXPaCAQPn_Nxw1VPUcAbc0E1q1KlGlRO2g==&uniplatform=NZKPT&language=CHS" 
+  presscoverage:
+    - url: "https://csxy.zuel.edu.cn/2022/0826/c7501a304283/page.htm"
+      text: "张子尧"
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+  book: "《世界经济》"
+  year: "2024年第7期。" 
+  abstract: >
+    中国经济快速发展的同时，区域发展不平衡问题依然突出。培育贫困地区经济高质量发展的内生动力是解决区域不平衡问题的治本之举。中国政府在 2011 年底推出了新一轮全国性区域扶贫开发计划，本文利用手工收集整理的政策文件信息，结合县域经济、企业和土地交易等宏微观数据，运用双重差分法深入剖析了区域扶贫政策的宏观经济效果和微观作用机制。研究发现，扶贫开发计划显著推动了贫困地区的经济发展，且未对邻近或对口帮扶地区造成负面影响。贫困地区经济发展主要得益于工业化的推进，其中既包括生产规模扩张的外延式发展，又包括生产效率改善的内涵式发展。此外，成本收益分析表明扶贫开发计划具有较高的经济效益，并具有财政长期可持续性。本文结果为进一步完善区域扶贫政策措施、推动区域均衡发展提供了重要参考。
+
+- title: "《制造业企业的劳动力市场垄断势力：非中性技术进步环境下的识别与估计》" 
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkEs3V9qSGoaiFl6CbLidobFsigWQffXcTALt9aPuf895tLWZNgeR4gN4Hu5_2oFlo32yD7xPmUbEl2YHPW7muLYCEUYxmALpO04QirSlliMO070SK4UVZ-4NqlD4UvHplO1f3O_6YBwTQqeb4sO_0jXzuwcNYk-BgbCK0R-5WlP2g==&uniplatform=NZKPT&language=CHS" 
+  presscoverage:
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+    - url: ""
+      text: "张道远"
+  book: "《中国工业经济》"
+  year: "2024年第8期。" 
+  abstract: >
+    劳动力市场垄断(即企业具有一定程度的工资定价权)不仅妨碍劳动要素的有效配置，还会扭曲国民收入初次分配。使用微观数据对劳动力市场垄断进行定量研究在非中性技术进步环境下其结果可能存在严重偏误。为此，本文提出一种能够考虑非中性技术进步的结构估计方法，直接在微观层面识别与估计企业的劳动力市场垄断势力。基于2008-2016年全国税收调查数据的估计结果显示，中国制造业企业在劳动力市场具有相当程度的买方垄断势力：劳动折价率加权均值为2.08，即员工只得到其边际产出的大约48%。样本期内劳动折价率保持稳定，意味着这一时期劳资双方的分配关系并未明显改变，资本仍然居于主导地位。本文发现，忽视非中性技术进步可能影响劳动折价率估计结果，从而在一些重要问题上得到误导性结论。本文从微观视角刻画了国际金融危机以来中国制造业劳动力市场垄断状况的整体图景，为新时期破除劳动力市场垄断障碍、完善初次收入分配体系提供了重要经验支撑。
+
+- title: "《中国劳动收入份额的演变趋势及基于制造业的驱动力探索》" 
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=tsj_6yYi9c48qAW0bVxD1TbWM7IbXznY33YkEsjFzF9Ffv4mJcse3JjnyLomkVNl_Xb77Xf75912v1ejwSSTsyvedd0GWI36Zczjexmt7uXgDEALyHSFzKcqhSj-ZFeQCsEjs9PD-t8P93mEbn48iWrr4FexXSJMoP1kTlaxTUaeMTa6DqOWWQ==&uniplatform=NZKPT&language=CHS" 
+  presscoverage:
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+    - url: ""
+      text: "张道远"
+  book: "《金融研究》"
+  year: "2024年第7期。" 
+  abstract: >
+    劳动收入份额是决定国民收入分配格局的基础。 本文使用覆盖1998-2016年的大样本微观数据，描述这一时期企业劳动收入份额演变趋势，并构建结构估计模型、运用多种分解方法探索其主要驱动力。 结论如下：第一，1998-2016年中国企业劳动收入份额呈现明显的U形趋势，2007年为其低谷。 特别地，国际金融危机后全行业劳动收入份额一致上升，2016年比2007年增长近四成。第二，持续经营企业是样本期内制造业劳动收入份额演变的主体，其对制造业总体劳动收入份额变化的贡献超过80％。第三，2007年后持续经营企业人均销售增速相对于人均工资增速明显放缓，是样本期内劳动收入份额U形逆转的关键驱动因素。 第四，技术进步或劳动市场制度变化等因素，很可能是2007年后劳动收入份额下滑趋势逆转的主要驱动力。本文认为，对近年来劳动收入份额的改善不应过于乐观，应该继续强化改善中国要素分配格局和收入分配状况的各项政策措施。
+
+- title: "《要素替代弹性、有偏技术进步和劳动收入份额上升》" 
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=tsj_6yYi9c6_lJqeI2Y9FqoFmHVi3uig33TkWB7biYeGGcu9TcGGOEyrvnnRxDYvGS5fL0goywlqrwwLhylmBJu4s5IvyRpGRpKtxEnFHF93uEIvkxq5TKzUX0Gre0Akn5FfoW1sGMkpUdVij_58hVIKdjD4IEQ3Q9SRAki13s4GJ5JIQMKCeQ==&uniplatform=NZKPT&language=CHS" 
+  presscoverage:
+    - url: "http://nads.ruc.edu.cn/yjtd/qzjs/js/2fe0e8a30feb49478e3b87c632690de8.htm"
+      text: "尹恒"
+    - url: ""
+      text: "张道远"
+  book: "《财贸经济》"
+  year: "2024年第1期。" 
+  abstract: >
+    资本-劳动替代弹性是理解劳动收入份额演变的关键。本文在一个整合生产端和需求端的结构估计框架内同时纳入中性和有偏技术进步，使用全国税收调查数据估计微观替代弹性，然后加总得到宏观替代弹性，并在此基础上考察金融危机以来劳动收入份额上升的驱动力。研究结果如下，(1)2007-2016年微观替代弹性平均为2.877，且制造业要高于服务业。考虑需求价格弹性和资本密集度等其他企业异质性后，中国全行业加总替代弹性为2.540，表明中国资本和劳动要素总体呈现替代关系。(2)给定替代弹性估计，2007年后劳动收入份额上升并非由要素相对价格变化驱动，劳动市场垄断及劳动调整成本等剩余未解释因素的影响也较小。真正动因在于有偏技术进步，它可以解释这一时期劳动收入份额变化的187%，且有偏技术进步对制造业劳动收入份额上升的促进作用明显高于服务业。本文描述了金融危机以来中国资本-劳动替代弹性演变的整体图景，并据此识别出近年来劳动收入份额上升的核心动力，可以为新时期推动中国经济高质量发展的公共政策提供重要的决策依据。
