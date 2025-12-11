@@ -3,11 +3,8 @@ title = "Useful Links"
 weight = 1
 +++
 
+**PHD Guide :**
 
+*"Writing tips for Ph.D. students"*, by John Cochrane.
 
-**2025:**
-
-*"Public Finance"*, Wuhan University.
-
-*"Frontier Issues in Finance and Taxation"*, Wuhan University.
 
