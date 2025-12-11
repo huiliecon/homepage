@@ -1,5 +1,5 @@
 +++
-title = "Useful Links"
+title = "Resources"
 weight = 1
 +++
 
@@ -12,6 +12,8 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 **Public Economics:**
 
 [Raj Cheety](https://rajchetty.com/)
+
+[Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
 
 
 
