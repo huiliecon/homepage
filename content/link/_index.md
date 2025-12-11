@@ -9,6 +9,8 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 **IO:**
 
+[Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
+
 [Daniel Yi Xu](https://sites.google.com/site/yixusite/)
 
 [Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
@@ -26,15 +28,23 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 [Emmanuel Saez](https://eml.berkeley.edu/~saez/)
 
-[Thomas Piketty](http://piketty.pse.ens.fr/en/)
-
-[Raj Cheety](https://rajchetty.com/)
+[Gabriel Zucman](https://gabriel-zucman.eu/)
 
 [Joel Slemrod](https://webuser.bus.umich.edu/jslemrod/)
 
-[Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
+[Jonathan Gruber](https://economics.mit.edu/people/faculty/jonathan-gruber)
 
 [Juan Carlos Suárez Serrato](https://www.jcsuarez.com/)
+
+[Raj Cheety](https://rajchetty.com/)
+
+[Thomas Piketty](http://piketty.pse.ens.fr/en/)
+
+[Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
+
+[Wojciech Kopczuk](https://www.columbia.edu/~wk2110/)
+
+
 
 
 
