@@ -20,6 +20,8 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 [Emmanuel Saez](https://eml.berkeley.edu/~saez/)
 
+[Thomas Piketty](http://piketty.pse.ens.fr/en/)
+
 [Raj Cheety](https://rajchetty.com/)
 
 [Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
