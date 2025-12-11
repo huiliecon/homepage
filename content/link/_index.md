@@ -7,13 +7,24 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 **IO:**
 
+[Daniel Yi Xu](https://sites.google.com/site/yixusite/)
+
+[Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
+
+[Michael Rubens](https://michaelrubens.github.io/)
+
+[Panle Jia Barwick](https://panlebarwick.github.io/)
 
 
 **Public Economics:**
 
+[Emmanuel Saez](https://eml.berkeley.edu/~saez/)
+
 [Raj Cheety](https://rajchetty.com/)
 
 [Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
+
+[Juan Carlos Suárez Serrato](https://www.jcsuarez.com/)
 
 
 
