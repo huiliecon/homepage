@@ -7,9 +7,12 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 **IO:**
 
+
 [Daniel Yi Xu](https://sites.google.com/site/yixusite/)
 
 [Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
+
+[Mert Demirer](https://www.mertdemirer.com/)
 
 [Michael Rubens](https://michaelrubens.github.io/)
 
