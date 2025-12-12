@@ -29,7 +29,13 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 
 **Public Economics:**
 
+[Annette Alstadsæter](https://sites.google.com/view/annettealstadsater/start)
+
+[Daniel G. Grarrett](https://danggarrett.com/)
+
 [Emmanuel Saez](https://eml.berkeley.edu/~saez/)
+
+[Eric Zwick](https://www.ericzwick.com/)
 
 [Gabriel Zucman](https://gabriel-zucman.eu/)
 
@@ -38,6 +44,10 @@ If you are interested in **IO** and **Public Economics**, you can pay attention 
 [Jonathan Gruber](https://economics.mit.edu/people/faculty/jonathan-gruber)
 
 [Juan Carlos Suárez Serrato](https://www.jcsuarez.com/)
+
+[Niels Johannesen](https://nielsjohannesen.net/)
+
+[Owen M. Zidar](https://zidar.princeton.edu/)
 
 [Raj Cheety](https://rajchetty.com/)
 
