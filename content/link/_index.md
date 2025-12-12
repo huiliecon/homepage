@@ -5,9 +5,7 @@ weight = 1
 
 If you're interested in Industrial Organization (IO) and Public Economics, I’ve compiled a few helpful links and scholar pages that may serve as useful starting points.
 
-A list of IO job market candidates is available on [Shoshana Vasserman](https://shoshanavasserman.com/io-jmc/)’s website.
-
-For Trade job market candidates, see [Jonathan Dingel](https://tradediversion.net/)’s website.
+A list of IO job market candidates is available on [Shoshana Vasserman](https://shoshanavasserman.com/io-jmc/)’s website. For Trade job market candidates, see [Jonathan Dingel](https://tradediversion.net/)’s website.
 
 I also recommend following the work of several scholars in these areas (not an exhaustive list):
 
