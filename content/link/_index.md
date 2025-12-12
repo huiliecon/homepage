@@ -9,7 +9,7 @@ If you're interested in Industrial Organization (IO) and Public Economics, I’v
  
 - For **Trade job market candidates**, visit [Jonathan Dingel’s website](https://tradediversion.net/).
 
-- The **[IO group @ KU Leuven](https://sites.google.com/view/ioleuven/home)** also features a wealth of related research and working papers.
+- The **[IO group @ KU Leuven](https://sites.google.com/view/ioleuven/home)** also features a wealth of related research.
 
 ## Scholars to Follow
 
