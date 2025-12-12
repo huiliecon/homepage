@@ -3,9 +3,12 @@ title = "Learning Resources"
 weight = 1
 +++
 
-If you're interested in Industrial Organization (IO) and Public Economics, I’ve compiled a few helpful links and scholar pages that may serve as useful starting points.
+If you're interested in Industrial Organization (IO) and Public Economics, I’ve compiled a few helpful links and scholar pages that can serve as useful starting points:
+- A list of **IO job market candidates** is available on [Shoshana Vasserman’s website](https://shoshanavasserman.com/io-jmc/).
+- For **Trade job market candidates**, visit [Jonathan Dingel’s website](https://tradediversion.net/).
+- The **[IO group @ KU Leuven](https://sites.google.com/view/ioleuven/home)** also features a wealth of related research and working papers.
 
-A list of IO job market candidates is available on [Shoshana Vasserman](https://shoshanavasserman.com/io-jmc/)’s website. For Trade job market candidates, see [Jonathan Dingel](https://tradediversion.net/)’s website.
+## Scholars to Follow
 
 I also recommend following the work of several scholars in these areas (not an exhaustive list).
 
@@ -17,9 +20,19 @@ I also recommend following the work of several scholars in these areas (not an e
 
 [Devesh R. Raval](https://www.devesh-raval.com/)
 
+[Doraszelski Ulrich](https://bepp.wharton.upenn.edu/profile/ulrichd/)
+
+[Frank Verboven](https://sites.google.com/site/frankverbo/)
+
 [Jan Eeckhout](https://www.janeeckhout.com/)
 
 [Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
+
+[Jo Vanbiesebroeck](https://sites.google.com/view/jovb/home)
+
+[Jordi Jaumandreu](https://people.bu.edu/jordij/)
+
+[Leonard Treuren](https://sites.google.com/view/leonardtreuren/home)
 
 [Mert Demirer](https://www.mertdemirer.com/)
 
