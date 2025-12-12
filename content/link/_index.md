@@ -3,7 +3,7 @@ title = "Resources"
 weight = 1
 +++
 
-If you're interested in Industrial Organization (IO) and Public Economics, I’ve compiled a few helpful links and scholar pages that can serve as useful starting points:
+If you're interested in Industrial Organization (IO) and Public Economics, I’ve compiled a few helpful links and scholar pages that can serve as useful starting points.
 
 ## Job Market Candidates & Group
 
