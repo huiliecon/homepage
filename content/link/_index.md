@@ -1,5 +1,5 @@
 +++
-title = "Learning Resources"
+title = "Resources"
 weight = 1
 +++
 
