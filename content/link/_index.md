@@ -18,18 +18,31 @@ I also recommend following the work of several scholars in these areas (not an e
 **Industrial Organization (IO):**
 
 [Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
+
 [Daniel Yi Xu](https://sites.google.com/site/yixusite/)
+
 [Devesh R. Raval](https://www.devesh-raval.com/)
+
 [Doraszelski Ulrich](https://bepp.wharton.upenn.edu/profile/ulrichd/)
+
 [Frank Verboven](https://sites.google.com/site/frankverbo/)
+
 [Jan Eeckhout](https://www.janeeckhout.com/)
+
 [Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
+
 [Jo Vanbiesebroeck](https://sites.google.com/view/jovb/home)
+
 [Jordi Jaumandreu](https://people.bu.edu/jordij/)
+
 [Leonard Treuren](https://sites.google.com/view/leonardtreuren/home)
+
 [Mert Demirer](https://www.mertdemirer.com/)
+
 [Michael Rubens](https://michaelrubens.github.io/)
+
 [Paul Grieco](https://paulgrieco.github.io/)
+
 [Panle Jia Barwick](https://panlebarwick.github.io/)
 
 **Public Economics:**
