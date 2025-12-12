@@ -1,13 +1,17 @@
 +++
-title = "Resources"
+title = "Learning Resources"
 weight = 1
 +++
 
-You can find a list of job market candidates in industrial organization in [Shoshana Vasserman](https://shoshanavasserman.com/io-jmc/)’s website, and trade in [Jonathan Dingel](https://tradediversion.net/)’s website.
+If you're interested in Industrial Organization (IO) and Public Economics, I’ve compiled a few helpful links and scholar pages that may serve as useful starting points.
 
-If you are interested in **IO** and **Public Economics**, you can pay attention to the following scholars (including but not limited to).
+A list of IO job market candidates is available on [Shoshana Vasserman](https://shoshanavasserman.com/io-jmc/)’s website.
 
-**IO:**
+For Trade job market candidates, see [Jonathan Dingel](https://tradediversion.net/)’s website.
+
+I also recommend following the work of several scholars in these areas (not an exhaustive list):
+
+**Industrial Organization (IO):**
 
 [Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
 
