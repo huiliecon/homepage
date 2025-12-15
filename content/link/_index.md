@@ -51,6 +51,8 @@ I also recommend following the work of several scholars in these areas (not an e
 
 - [Annette Alstadsæter](https://sites.google.com/view/annettealstadsater/start)
 
+- [Benjamin Lockwood](https://benlockwood.com/)
+
 - [Daniel G. Grarrett](https://danggarrett.com/)
 
 - [Emmanuel Saez](https://eml.berkeley.edu/~saez/)
