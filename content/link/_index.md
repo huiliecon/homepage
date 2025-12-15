@@ -43,9 +43,9 @@ I also recommend following the work of several scholars in these areas (not an e
 
 - [Michael Rubens](https://michaelrubens.github.io/)
 
-[Paul Grieco](https://paulgrieco.github.io/)
+- [Paul Grieco](https://paulgrieco.github.io/)
 
-[Panle Jia Barwick](https://panlebarwick.github.io/)
+- [Panle Jia Barwick](https://panlebarwick.github.io/)
 
 **Public Economics:**
 
