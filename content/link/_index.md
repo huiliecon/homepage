@@ -19,29 +19,29 @@ I also recommend following the work of several scholars in these areas (not an e
 
 **Industrial Organization (IO):**
 
-[Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
+- [Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
 
-[Daniel Yi Xu](https://sites.google.com/site/yixusite/)
+- [Daniel Yi Xu](https://sites.google.com/site/yixusite/)
 
-[Devesh R. Raval](https://www.devesh-raval.com/)
+- [Devesh R. Raval](https://www.devesh-raval.com/)
 
-[Doraszelski Ulrich](https://bepp.wharton.upenn.edu/profile/ulrichd/)
+- [Doraszelski Ulrich](https://bepp.wharton.upenn.edu/profile/ulrichd/)
 
-[Frank Verboven](https://sites.google.com/site/frankverbo/)
+- [Frank Verboven](https://sites.google.com/site/frankverbo/)
 
-[Jan Eeckhout](https://www.janeeckhout.com/)
+- [Jan Eeckhout](https://www.janeeckhout.com/)
 
-[Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
+- [Jan De Loecker](https://sites.google.com/site/deloeckerjan/)
 
-[Jo Vanbiesebroeck](https://sites.google.com/view/jovb/home)
+- [Jo Vanbiesebroeck](https://sites.google.com/view/jovb/home)
 
-[Jordi Jaumandreu](https://people.bu.edu/jordij/)
+- [Jordi Jaumandreu](https://people.bu.edu/jordij/)
 
-[Leonard Treuren](https://sites.google.com/view/leonardtreuren/home)
+- [Leonard Treuren](https://sites.google.com/view/leonardtreuren/home)
 
-[Mert Demirer](https://www.mertdemirer.com/)
+- [Mert Demirer](https://www.mertdemirer.com/)
 
-[Michael Rubens](https://michaelrubens.github.io/)
+- [Michael Rubens](https://michaelrubens.github.io/)
 
 [Paul Grieco](https://paulgrieco.github.io/)
 
@@ -49,33 +49,33 @@ I also recommend following the work of several scholars in these areas (not an e
 
 **Public Economics:**
 
-[Annette Alstadsæter](https://sites.google.com/view/annettealstadsater/start)
+- [Annette Alstadsæter](https://sites.google.com/view/annettealstadsater/start)
 
-[Daniel G. Grarrett](https://danggarrett.com/)
+- [Daniel G. Grarrett](https://danggarrett.com/)
 
-[Emmanuel Saez](https://eml.berkeley.edu/~saez/)
+- [Emmanuel Saez](https://eml.berkeley.edu/~saez/)
 
-[Eric Zwick](https://www.ericzwick.com/)
+- [Eric Zwick](https://www.ericzwick.com/)
 
-[Gabriel Zucman](https://gabriel-zucman.eu/)
+- [Gabriel Zucman](https://gabriel-zucman.eu/)
 
-[Joel Slemrod](https://webuser.bus.umich.edu/jslemrod/)
+- [Joel Slemrod](https://webuser.bus.umich.edu/jslemrod/)
 
-[Jonathan Gruber](https://economics.mit.edu/people/faculty/jonathan-gruber)
+- [Jonathan Gruber](https://economics.mit.edu/people/faculty/jonathan-gruber)
 
-[Juan Carlos Suárez Serrato](https://www.jcsuarez.com/)
+- [Juan Carlos Suárez Serrato](https://www.jcsuarez.com/)
 
-[Niels Johannesen](https://nielsjohannesen.net/)
+- [Niels Johannesen](https://nielsjohannesen.net/)
 
-[Owen M. Zidar](https://zidar.princeton.edu/)
+- [Owen M. Zidar](https://zidar.princeton.edu/)
 
-[Raj Cheety](https://rajchetty.com/)
+- [Raj Cheety](https://rajchetty.com/)
 
-[Thomas Piketty](http://piketty.pse.ens.fr/en/)
+- [Thomas Piketty](http://piketty.pse.ens.fr/en/)
 
-[Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
+- [Stefanie Stantcheva](https://www.stefanie-stantcheva.com/)
 
-[Wojciech Kopczuk](https://www.columbia.edu/~wk2110/)
+- [Wojciech Kopczuk](https://www.columbia.edu/~wk2110/)
 
 
 
