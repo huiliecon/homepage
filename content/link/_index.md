@@ -9,7 +9,7 @@ If you're interested in Industrial Organization (IO) and Public Economics, I’v
 
 - A list of **IO job market candidates** is available on [Shoshana Vasserman’s website](https://shoshanavasserman.com/io-jmc/).
  
-- For **Trade job market candidates**, visit [Jonathan Dingel’s website](https://tradediversion.net/).
+- For **Trade & Spatial job market candidates**, visit [Jonathan Dingel’s website](https://tradediversion.net/).
 
 - The **[IO group @ KU Leuven](https://sites.google.com/view/ioleuven/home)** also features a wealth of related research.
 
@@ -18,6 +18,8 @@ If you're interested in Industrial Organization (IO) and Public Economics, I’v
 I also recommend following the work of several scholars in these areas (not an exhaustive list).
 
 **Industrial Organization (IO):**
+
+- [Victor Aguirregabiria](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
 
 - [Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
 
