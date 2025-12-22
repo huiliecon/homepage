@@ -37,6 +37,8 @@ I also recommend following the work of several scholars in these areas (not an e
 
 - [Jordi Jaumandreu](https://people.bu.edu/jordij/)
 
+- [Kohei Kawaguchi](https://www.kohei-kawaguchi.com/)
+
 - [Leonard Treuren](https://sites.google.com/view/leonardtreuren/home)
 
 - [Mert Demirer](https://www.mertdemirer.com/)
