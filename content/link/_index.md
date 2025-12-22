@@ -19,8 +19,6 @@ I also recommend following the work of several scholars in these areas (not an e
 
 **Industrial Organization (IO):**
 
-- [Victor Aguirregabiria](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
-
 - [Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
 
 - [Daniel Yi Xu](https://sites.google.com/site/yixusite/)
@@ -50,6 +48,8 @@ I also recommend following the work of several scholars in these areas (not an e
 - [Paul Grieco](https://paulgrieco.github.io/)
 
 - [Panle Jia Barwick](https://panlebarwick.github.io/)
+
+- [Victor Aguirregabiria](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
 
 **Public Economics:**
 
