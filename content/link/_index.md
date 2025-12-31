@@ -21,6 +21,8 @@ I also recommend following the work of several scholars in these areas (not an e
 
 - [Chad Syverson](https://faculty.chicagobooth.edu/chad-syverson)
 
+- [Chris Conlon](https://chrisconlon.github.io/index.html)
+
 - [Daniel Yi Xu](https://sites.google.com/site/yixusite/)
 
 - [Devesh R. Raval](https://www.devesh-raval.com/)
