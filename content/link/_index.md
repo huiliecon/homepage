@@ -51,6 +51,8 @@ I also recommend following the work of several scholars in these areas (not an e
 
 - [Panle Jia Barwick](https://panlebarwick.github.io/)
 
+- [Paul Schrimpf](http://faculty.arts.ubc.ca/pschrimpf/index.html)
+
 - [Victor Aguirregabiria](https://sites.google.com/view/victoraguirregabiriaswebsite/home)
 
 **Public Economics:**
